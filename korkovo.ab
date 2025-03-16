@@ -1,1 +1,2567 @@
-korkovo.ab
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+<meta http-equiv="content-language" content="ru-tj">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="author" content="Korgar.tj">
+<meta name="description" content="Поиск работы в Душанбе и Худжанде, Таджикистане. Вакансии в Душанбе и Хучанде. Работа в Душанбе, свободные рабочие места в Душанбе. Найди подходящую работу в Тачикистане">
+<meta name="keywords" content="вакансии, резюме, работа в Душанбе, вакансии в Душанбе, работа в Худжанде, вакансии в Худжанде и в других городах Таджикистана, поиск работы, трудоустройство, найти работу, поиск резюме, найти резюме">
+<meta name="yandex-verification" content="7a12b6458e657e11" />
+<title>Маҳфузуллои кунтӣ</title>
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://korgar.tj/img/icon-lg.ico">
+
+<!-- Bootstrap CSS -->
+
+
+
+<!-- Material CSS -->
+
+
+<link rel="stylesheet" href="https://korgar.tj/css/combined.min.css" type="text/css">
+
+
+<!-- Font Awesome CSS -->
+
+
+<link rel="stylesheet" href="https://korgar.tj/fonts/combined.min.css" type="text/css">
+
+<!-- Animate CSS -->
+<link rel="stylesheet" href="https://korgar.tj/css/extras/combined.min.css" type="text/css">
+
+<!-- Owl Carousel -->
+
+
+<!-- Rev Slider CSS -->
+
+<!-- Slicknav js -->
+
+
+<!-- Main Styles -->
+<link rel="stylesheet" href="https://korgar.tj/css/main.css?4" type="text/css">
+
+<!-- Responsive CSS Styles / After main.css-->
+<link rel="stylesheet" href="https://korgar.tj/css/responsive.css?3" type="text/css">
+
+<!-- Color CSS Styles  -->
+<link rel="stylesheet" type="text/css" href="https://korgar.tj/css/job.css?64" media="screen" />
+
+
+
+
+
+<style type="text/css">
+    @media (max-width: 767px) {
+        .navbar.navbar-scroll-point, .navbar.navbar-scroll-point.header-with-topbar, .navbar.navbar-scroll-point.hestia_center, .navbar.navbar-scroll-point.hestia_right{
+            position:absolute !important;
+        }
+    }
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script data-ad-client="ca-pub-5970757595340654" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-43943675-8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-43943675-8');
+    </script>
+
+    <!-- Google Tag Manager -->
+
+
+
+
+
+    <!-- End Google Tag Manager -->
+
+    <!-- Разметка JSON-LD, созданная Мастером разметки структурированных данных Google. -->
+
+
+                        <script type="application/ld+json">
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://korgar.tj",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://korgar.tj/vakancii/poisk?dolzhnost={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    },
+    {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "Korgar.tj",
+        "url" : "https://korgar.tj",
+        "sameAs" : [
+            "https://www.facebook.com/tj.korgar",
+            "https://www.instagram.com/korgar.tj/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "TJ"
+        }
+    }
+]
+</script>
+            
+
+
+    
+    
+    </head>
+
+
+
+
+<body>
+        <!-- Google Tag Manager (noscript) -->
+
+    <!-- End Google Tag Manager (noscript) -->
+    
+    
+
+    <div class="header">
+                    <section id="intro" class="section-intro ">
+
+                <!-- Start intro section -->
+                <div class="logo-menu">
+
+
+    <div class="mobile-menu">
+
+        <div class="img-layout">
+            <a href="https://korgar.tj">
+                <img src="https://korgar.tj/img/logos/logo1-200.png" alt="главная страница">
+            </a>
+        </div>
+
+        <div class="icon-layout">
+
+            <a href="https://korgar.tj/lang/tj" class="lg">
+                <img src="https://korgar.tj/img/flags/tj.svg" style="height: 21px; width: 28px; margin-bottom: 5px; border: 1px solid #f3f3f3" alt="выбор языка" >
+            </a>
+
+                            
+                <a class="lg " href="https://korgar.tj/check-type"><i class="fa fa-star"></i></a>
+
+                <a class="lg " href="https://korgar.tj/check-type"><i class="fa fa-user-circle"></i></a>
+                <a class="lg " href="https://korgar.tj/check-type?add=1"><i class="fa fa-plus-circle"></i></a>
+                    </div>
+    </div>
+
+    <nav class="navbar navbar-default navbar-desktop " role="navigation">
+
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header desktop-menu">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand logo" href="https://korgar.tj">
+                    <img src="https://korgar.tj/img/logos/logo1-200.png" alt="главная страница">
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <!-- Start Navigation List -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#">
+                            Соискателю <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown">
+                            <li><a href="https://korgar.tj">Главная</a></li>
+                                                            <li><a href="https://korgar.tj/soiskatel/registraciya">Регистрация</a></li>
+
+                                                        <li><a href="https://korgar.tj/resume/create">Создайте резюме</a></li>
+                            <li><a href="https://korgar.tj/vakancii">Все вакансии</a></li>
+                            <li><a href="https://korgar.tj/vakancii/kategorii">Вакансии по рубрикам</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Работодателю <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown">
+                            <li><a href="https://korgar.tj/rabotodatel">Главная</a></li>
+                                                            <li><a href="https://korgar.tj/rabotodatel/registraciya">Регистрация</a></li>
+
+                                                        <li><a href="https://korgar.tj/vakanciya/sozdat">Подать объявление</a></li>
+
+                            <li><a href="https://korgar.tj/resume">Все резюме</a></li>
+                            <li><a href="https://korgar.tj/resume/kategorii">Резюме по рубрикам</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right margin-left-0">
+
+                    <li>
+                        <a href="https://korgar.tj/lang/tj" class="lg">
+                            <img src="https://korgar.tj/img/flags/tj.svg" style="height: 21px; width: 28px; margin-bottom: 5px;" alt="выбор языка" >
+                        </a>
+                    </li>
+
+                                            <li class="left">
+                            <a href="https://korgar.tj/resume/create" class="btn btn-common top-btn"><i class="ti-pencil-alt"></i> Создайте резюме</a>
+                        </li>
+                        <li class="left">
+                            <a href="https://korgar.tj/vakanciya/sozdat" class="btn btn-common top-btn"><i class="ti-pencil-alt"></i> Подать объявление</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+        <!-- Mobile Menu Start -->
+
+        <!-- Mobile Menu End -->
+    </nav>
+
+    
+    </div>
+
+
+                <div class="search-container">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12">
+                <ul class="nav nav-pills search" role="tablist">
+                    <li class="nav-item active">
+                        <a class="nav-link padding-10" id="job-tab" data-toggle="tab" href="#jobs" role="tab" >Ищете работу</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link padding-10" id="resume-tab" data-toggle="tab" href="#resumes" role="tab">Нужны сотруд?</a>
+                    </li>
+                </ul>
+                <div class="tab-content margin-top-20">
+                    <div class="tab-pane active in padding-left-10" id="jobs" role="tabpanel">
+                        <h2 class="search-title">Поиск работы</h2>
+                <h3 style="color: white; line-height: 28px;">Более 2000 вакансий. Работа найдется для каждого далбаёба.</h3>
+                <div class="content padding-left-0">
+
+                    <form method="GET" action="https://korgar.tj/vakancii/poisk" accept-charset="UTF-8" class="form-ad">
+    <div class="row">
+        <div class="col-md-9 col-xs-9 padding-0">
+
+                <div class="col-md-6 col-xs-12 padding-0 height-50">
+                                        <select id="pos" class="simple-10 mobile-border-bottom-0" name="dolzhnost"><option selected="selected" value=""></option><option value="3D-дизайнер">3D-дизайнер</option><option value="Cпециалист по розничным продажам">Cпециалист по розничным продажам</option><option value="Event-менеджер">Event-менеджер</option><option value="Front-end разработчик">Front-end разработчик</option><option value="HR-менеджер">HR-менеджер</option><option value="IT-менеджер">IT-менеджер</option><option value="IT-специалист">IT-специалист</option><option value="PR-менеджер">PR-менеджер</option><option value="PS Engineer">PS Engineer</option><option value="QA-менеджер">QA-менеджер</option><option value="SEO-специалист">SEO-специалист</option><option value="SMM-аналитик">SMM-аналитик</option><option value="SMM-менеджер">SMM-менеджер</option><option value="SMM-помощник">SMM-помощник</option><option value="SMM-специалист">SMM-специалист</option><option value="Web-дизайнер">Web-дизайнер</option><option value="Web-программист">Web-программист</option><option value="WordPress разработчик">WordPress разработчик</option><option value="iOS разработчик">iOS разработчик</option><option value="Автожестянщик">Автожестянщик</option><option value="Автожестянщик-арматурщик">Автожестянщик-арматурщик</option><option value="Автомаляр">Автомаляр</option><option value="Автомеханик">Автомеханик</option><option value="Автомеханик-автослесарь">Автомеханик-автослесарь</option><option value="Автомойщик">Автомойщик</option><option value="Автослесарь">Автослесарь</option><option value="Автоэлектрик">Автоэлектрик</option><option value="Агент">Агент</option><option value="Агент по коммерческой недвижимости">Агент по коммерческой недвижимости</option><option value="Агент по продаже недвижимости">Агент по продаже недвижимости</option><option value="Агроном">Агроном</option><option value="Агроном-растениевод">Агроном-растениевод</option><option value="Адвокат">Адвокат</option><option value="Административный директор">Административный директор</option><option value="Администратор">Администратор</option><option value="Администратор баз данных">Администратор баз данных</option><option value="Администратор гостиницы">Администратор гостиницы</option><option value="Администратор кафе">Администратор кафе</option><option value="Администратор магазина">Администратор магазина</option><option value="Администратор на ресепшн">Администратор на ресепшн</option><option value="Администратор ресторана">Администратор ресторана</option><option value="Администратор сайта">Администратор сайта</option><option value="Администратор салона">Администратор салона</option><option value="Администратор салона красоты">Администратор салона красоты</option><option value="Администратор службы приема и размещения">Администратор службы приема и размещения</option><option value="Администратор стоматологической клиники">Администратор стоматологической клиники</option><option value="Администратор-кассир">Администратор-кассир</option><option value="Акробат">Акробат</option><option value="Актер">Актер</option><option value="Актриса">Актриса</option><option value="Акушер">Акушер</option><option value="Акушер-гинеколог">Акушер-гинеколог</option><option value="Аналитик">Аналитик</option><option value="Анестезиолог">Анестезиолог</option><option value="Аниматор">Аниматор</option><option value="Арматурщик">Арматурщик</option><option value="Архитектор">Архитектор</option><option value="Архитектор-дизайнер">Архитектор-дизайнер</option><option value="Архитектор-проектировщик">Архитектор-проектировщик</option><option value="Ассистент">Ассистент</option><option value="Ассистент врача стоматолога">Ассистент врача стоматолога</option><option value="Аудитор">Аудитор</option><option value="Банщик">Банщик</option><option value="Бариста">Бариста</option><option value="Бариста-кассир">Бариста-кассир</option><option value="Бармен">Бармен</option><option value="Бармен-бариста">Бармен-бариста</option><option value="Бетонщик">Бетонщик</option><option value="Библиотекарь">Библиотекарь</option><option value="Бизнес-аналитик">Бизнес-аналитик</option><option value="Бизнес-ассистент">Бизнес-ассистент</option><option value="Бизнес-консультант">Бизнес-консультант</option><option value="Бизнес-партнер">Бизнес-партнер</option><option value="Бизнес-тренер">Бизнес-тренер</option><option value="Блогер">Блогер</option><option value="Бренд-менеджер">Бренд-менеджер</option><option value="Бригада строителей">Бригада строителей</option><option value="Бригадир">Бригадир</option><option value="Бригады">Бригады</option><option value="Брошюровщик">Брошюровщик</option><option value="Буфетчик">Буфетчик</option><option value="Бухгалтер">Бухгалтер</option><option value="Бухгалтер 1с">Бухгалтер 1с</option><option value="Бухгалтер по зарплате">Бухгалтер по зарплате</option><option value="Бухгалтер по учету тмц">Бухгалтер по учету тмц</option><option value="Бухгалтер производственник">Бухгалтер производственник</option><option value="Бухгалтер-калькулятор">Бухгалтер-калькулятор</option><option value="Бухгалтер-кассир">Бухгалтер-кассир</option><option value="Бухгалтер-операционист">Бухгалтер-операционист</option><option value="Бухгалтер-экономист">Бухгалтер-экономист</option><option value="Вальцовщик">Вальцовщик</option><option value="Ведущий">Ведущий</option><option value="Ведущий дизайнер">Ведущий дизайнер</option><option value="Ведущий конструктор">Ведущий конструктор</option><option value="Ведущий программист">Ведущий программист</option><option value="Верстальщик">Верстальщик</option><option value="Ветеринарный врач">Ветеринарный врач</option><option value="Видео-оператор">Видео-оператор</option><option value="Видеомейкер">Видеомейкер</option><option value="Видеомонтажер">Видеомонтажер</option><option value="Визажист">Визажист</option><option value="Визитный мерчендайзер">Визитный мерчендайзер</option><option value="Визуализатор">Визуализатор</option><option value="Винильщик">Винильщик</option><option value="Внутренний аудитор">Внутренний аудитор</option><option value="Водитель">Водитель</option><option value="Водитель автобуса">Водитель автобуса</option><option value="Водитель автогрейдера">Водитель автогрейдера</option><option value="Водитель газели">Водитель газели</option><option value="Водитель грузовика">Водитель грузовика</option><option value="Водитель погрузчика">Водитель погрузчика</option><option value="Водитель прт">Водитель прт</option><option value="Водитель с личным автомобилем">Водитель с личным автомобилем</option><option value="Водитель такси">Водитель такси</option><option value="Водитель штабелера">Водитель штабелера</option><option value="Водитель эвакуатора">Водитель эвакуатора</option><option value="Водитель-грузчик">Водитель-грузчик</option><option value="Водитель-дальнобойщик">Водитель-дальнобойщик</option><option value="Водитель-инкассатор">Водитель-инкассатор</option><option value="Водитель-курьер">Водитель-курьер</option><option value="Водитель-механик">Водитель-механик</option><option value="Водитель-монтажник">Водитель-монтажник</option><option value="Водитель-экспедитор">Водитель-экспедитор</option><option value="Волонтёр">Волонтёр</option><option value="Воспитатель">Воспитатель</option><option value="Воспитатель детского сада">Воспитатель детского сада</option><option value="Врач">Врач</option><option value="Врач гинеколог">Врач гинеколог</option><option value="Врач дерматовенеролог">Врач дерматовенеролог</option><option value="Врач косметолог">Врач косметолог</option><option value="Врач общей практики">Врач общей практики</option><option value="Врач психиатр">Врач психиатр</option><option value="Врач узи">Врач узи</option><option value="Врач-инфекционист">Врач-инфекционист</option><option value="Газорезчик">Газорезчик</option><option value="Газоэлектросварщик">Газоэлектросварщик</option><option value="Гастрономист">Гастрономист</option><option value="Гастроэнтеролог">Гастроэнтеролог</option><option value="Генеральный директор">Генеральный директор</option><option value="Генпланист">Генпланист</option><option value="Геодезист">Геодезист</option><option value="Гипсокартонщик">Гипсокартонщик</option><option value="Гитарист">Гитарист</option><option value="Главный бухгалтер">Главный бухгалтер</option><option value="Главный инженер">Главный инженер</option><option value="Главный редактор">Главный редактор</option><option value="Главный специалист">Главный специалист</option><option value="Главный энергетик">Главный энергетик</option><option value="Гладильщик">Гладильщик</option><option value="Горничная">Горничная</option><option value="Графический дизайнер">Графический дизайнер</option><option value="Грузчик">Грузчик</option><option value="Грузчик-комплектовщик">Грузчик-комплектовщик</option><option value="Грузчик-упаковщик">Грузчик-упаковщик</option><option value="Гувернантка">Гувернантка</option><option value="Дворник">Дворник</option><option value="Дегустатор">Дегустатор</option><option value="Дежурный электрик">Дежурный электрик</option><option value="Делопроизводитель">Делопроизводитель</option><option value="Дерматолог-косметолог">Дерматолог-косметолог</option><option value="Детский инструктор">Детский инструктор</option><option value="Детский массажист">Детский массажист</option><option value="Детский парикмахер">Детский парикмахер</option><option value="Детский стоматолог">Детский стоматолог</option><option value="Диагност">Диагност</option><option value="Диджей">Диджей</option><option value="Дизайнер">Дизайнер</option><option value="Дизайнер интерьера">Дизайнер интерьера</option><option value="Дизайнер мебели">Дизайнер мебели</option><option value="Дизайнер одежды">Дизайнер одежды</option><option value="Дизайнер штор">Дизайнер штор</option><option value="Дизайнер-верстальщик">Дизайнер-верстальщик</option><option value="Дизайнер-конструктор">Дизайнер-конструктор</option><option value="Дизайнер-консультант">Дизайнер-консультант</option><option value="Дизайнер модельер">Дизайнер-модельер</option><option value="Директор">Директор</option><option value="Директор агентства">Директор агентства</option><option value="Директор магазина">Директор магазина</option><option value="Директор по инвестициям">Директор по инвестициям</option><option value="Директор по качеству">Директор по качеству</option><option value="Директор по маркетингу">Директор по маркетингу</option><option value="Директор по персоналу">Директор по персоналу</option><option value="Директор по продажам">Директор по продажам</option><option value="Директор по развитию">Директор по развитию</option><option value="Директор по рекламе">Директор по рекламе</option><option value="Директор филиала">Директор филиала</option><option value="Директор юридической службы">Директор юридической службы</option><option value="Диспетчер">Диспетчер</option><option value="Диспетчер на телефоне">Диспетчер на телефоне</option><option value="Диспетчер такси">Диспетчер такси</option><option value="Диспетчер-логист">Диспетчер-логист</option><option value="Дистрибьютор">Дистрибьютор</option><option value="Домработница">Домработница</option><option value="Домработница-няня">Домработница-няня</option><option value="Доставщик">Доставщик</option><option value="Женский парикмахер">Женский парикмахер</option><option value="Жестянщик">Жестянщик</option><option value="Журналист">Журналист</option><option value="Заведующий">Заведующий</option><option value="Заведующий гаражом">Заведующий гаражом</option><option value="Заведующий складом">Заведующий складом</option><option value="Заготовщик">Заготовщик</option><option value="Закройщик">Закройщик</option><option value="Замерщик">Замерщик</option><option value="Замерщик окон">Замерщик окон</option><option value="Заместитель">Заместитель</option><option value="Заместитель главного бухгалтера">Заместитель главного бухгалтера</option><option value="Заместитель директора">Заместитель директора</option><option value="Заместитель руководителя">Заместитель руководителя</option><option value="Заместитель управляющего">Заместитель управляющего</option><option value="Заправщик">Заправщик</option><option value="Заправщик картриджей">Заправщик картриджей</option><option value="Затяжчик обуви">Затяжчик обуви</option><option value="Заявщик">Заявщик</option><option value="Звукорежиссер">Звукорежиссер</option><option value="Зоотехник">Зоотехник</option><option value="Зубной техник">Зубной техник</option><option value="Инженер">Инженер</option><option value="Инженер кипиа">Инженер кипиа</option><option value="Инженер по вентиляции">Инженер по вентиляции</option><option value="Инженер по оборудованию">Инженер по оборудованию</option><option value="Инженер по обслуживанию">Инженер по обслуживанию</option><option value="Инженер по охране труда">Инженер по охране труда</option><option value="Инженер по сетям">Инженер по сетям</option><option value="Инженер по снабжению">Инженер по снабжению</option><option value="Инженер по технике безопасности">Инженер по технике безопасности</option><option value="Инженер по эксплуатации">Инженер по эксплуатации</option><option value="Инженер проекта">Инженер проекта</option><option value="Инженер прораб">Инженер прораб</option><option value="Инженер пто">Инженер пто</option><option value="Инженер слаботочных систем">Инженер слаботочных систем</option><option value="Инженер-конструктор">Инженер-конструктор</option><option value="Инженер-механик">Инженер-механик</option><option value="Инженер-наладчик">Инженер-наладчик</option><option value="Инженер-программист">Инженер-программист</option><option value="Инженер-проектировщик">Инженер-проектировщик</option><option value="Инженер-проектировщик вк">Инженер-проектировщик вк</option><option value="Инженер-проектировщик овик">Инженер-проектировщик овик</option><option value="Инженер-сметчик">Инженер-сметчик</option><option value="Инженер-строитель">Инженер-строитель</option><option value="Инженер-технолог">Инженер-технолог</option><option value="Инженер-электрик">Инженер-электрик</option><option value="Инженер-электроник">Инженер-электроник</option><option value="Инкассатор">Инкассатор</option><option value="Инспектор">Инспектор</option><option value="Инспектор по кадрам">Инспектор по кадрам</option><option value="Инструктор">Инструктор</option><option value="Инструктор игротеки">Инструктор игротеки</option><option value="Инструктор лфк">Инструктор лфк</option><option value="Инструктор по плаванию">Инструктор по плаванию</option><option value="Интервьюер">Интервьюер</option><option value="Интернет-маркетолог">Интернет-маркетолог</option><option value="Информационный представитель">Информационный представитель</option><option value="Исполнительный директор">Исполнительный директор</option><option value="Кальянщик">Кальянщик</option><option value="Каменщик">Каменщик</option><option value="Кардиолог">Кардиолог</option><option value="Кассир">Кассир</option><option value="Кассир столовой">Кассир столовой</option><option value="Кассир-бармен">Кассир-бармен</option><option value="Кассир-консультант">Кассир-консультант</option><option value="Кассир-логист">Кассир-логист</option><option value="Кассир-менеджер">Кассир-менеджер</option><option value="Кассир-оператор">Кассир-оператор</option><option value="Кассир-операционист">Кассир-операционист</option><option value="Кафельщик">Кафельщик</option><option value="Кинолог">Кинолог</option><option value="Кладовщик">Кладовщик</option><option value="Кладовщик-грузчик">Кладовщик-грузчик</option><option value="Кладовщик-комплектовщик">Кладовщик-комплектовщик</option><option value="Кладовщик-упаковщик">Кладовщик-упаковщик</option><option value="Кладчик">Кладчик</option><option value="Комментатор">Комментатор</option><option value="Коммерческий директор">Коммерческий директор</option><option value="Комплектовщик">Комплектовщик</option><option value="Композитор">Композитор</option><option value="Компьютерный мастер">Компьютерный мастер</option><option value="Компьютерщик">Компьютерщик</option><option value="Кондитер">Кондитер</option><option value="Кондитер-декоратор">Кондитер-декоратор</option><option value="Кондитер-оформитель">Кондитер-оформитель</option><option value="Кондитер-технолог">Кондитер-технолог</option><option value="Конструктор">Конструктор</option><option value="Конструктор мебели">Конструктор мебели</option><option value="Конструктор одежды">Конструктор одежды</option><option value="Консультант">Консультант</option><option value="Консьерж">Консьерж</option><option value="Контент-менеджер">Контент-менеджер</option><option value="Контролер">Контролер</option><option value="Контролер отдела технического контроля">Контролер отдела технического контроля</option><option value="Контролер отк">Контролер отк</option><option value="Контролер торгового зала">Контролер торгового зала</option><option value="Контролер-кассир">Контролер-кассир</option><option value="Координатор">Координатор</option><option value="Координатор проектов">Координатор проектов</option><option value="Копирайтер">Копирайтер</option><option value="Коренщик">Коренщик</option><option value="Корреспондент">Корреспондент</option><option value="Косметолог">Косметолог</option><option value="Косметолог-эстетист">Косметолог-эстетист</option><option value="Котломойщик">Котломойщик</option><option value="Кофе-леди">Кофе-леди</option><option value="Кочегар">Кочегар</option><option value="Крановщик">Крановщик</option><option value="Креативный менеджер">Креативный менеджер</option><option value="Кредитный эксперт">Кредитный эксперт</option><option value="Кровельщик">Кровельщик</option><option value="Кузнец">Кузнец</option><option value="Куратор аптек">Куратор аптек</option><option value="Курьер">Курьер</option><option value="Курьер internet-магазина">Курьер internet-магазина</option><option value="Курьер на велосипеде">Курьер на велосипеде</option><option value="Курьер на скутере">Курьер на скутере</option><option value="Курьер-регистратор">Курьер-регистратор</option><option value="Курьер-экспедитор">Курьер-экспедитор</option><option value="Кухонный рабочий">Кухонный рабочий</option><option value="Лаборант">Лаборант</option><option value="Лешмейкер">Лешмейкер</option><option value="Литейщик">Литейщик</option><option value="Лифтер">Лифтер</option><option value="Логист">Логист</option><option value="Логист оператор">Логист оператор</option><option value="Логопед">Логопед</option><option value="Логопед-дефектолог">Логопед-дефектолог</option><option value="Макетчик">Макетчик</option><option value="Маляр">Маляр</option><option value="Маляр-отделочник">Маляр-отделочник</option><option value="Маляр-штукатур">Маляр-штукатур</option><option value="Мангальщик">Мангальщик</option><option value="Маркетолог">Маркетолог</option><option value="Маркетолог-аналитик">Маркетолог-аналитик</option><option value="Маркировщик">Маркировщик</option><option value="Массажист">Массажист</option><option value="Мастер">Мастер</option><option value="Мастер бровист">Мастер бровист</option><option value="Мастер в салон красоты">Мастер в салон красоты</option><option value="Мастер депиляции">Мастер депиляции</option><option value="Мастер корпусной мебели">Мастер корпусной мебели</option><option value="Мастер макияжа">Мастер макияжа</option><option value="Мастер маникюра">Мастер маникюра</option><option value="Мастер маникюра-педикюра">Мастер маникюра-педикюра</option><option value="Мастер на пилораму">Мастер на пилораму</option><option value="Мастер ногтевого сервиса">Мастер ногтевого сервиса</option><option value="Мастер педикюра">Мастер педикюра</option><option value="Мастер по замене масла">Мастер по замене масла</option><option value="Мастер по изготовлению наружной рекламы">Мастер по изготовлению наружной рекламы</option><option value="Мастер по компьютерной диагностики">Мастер по компьютерной диагностики</option><option value="Мастер по коррекции бровей">Мастер по коррекции бровей</option><option value="Мастер по мягкой мебели">Мастер по мягкой мебели</option><option value="Мастер по наращиванию ногтей">Мастер по наращиванию ногтей</option><option value="Мастер по наращиванию ресниц">Мастер по наращиванию ресниц</option><option value="Мастер по ремонту">Мастер по ремонту</option><option value="Мастер по ремонту кондиционеров">Мастер по ремонту кондиционеров</option><option value="Мастер по ремонту обуви">Мастер по ремонту обуви</option><option value="Мастер по ремонту одежды">Мастер по ремонту одежды</option><option value="Мастер по ремонту сотовых телефонов">Мастер по ремонту сотовых телефонов</option><option value="Мастер по ремонту телефонов">Мастер по ремонту телефонов</option><option value="Мастер по ремонту холодильников">Мастер по ремонту холодильников</option><option value="Мастер по шугарингу">Мастер по шугарингу</option><option value="Мастер разделки и упаковки">Мастер разделки и упаковки</option><option value="Мастер ремонта стиральных машин">Мастер ремонта стиральных машин</option><option value="Мастер татуажа">Мастер татуажа</option><option value="Мастер участка">Мастер участка</option><option value="Мастер цеха">Мастер цеха</option><option value="Мастер-приемщик">Мастер-приемщик</option><option value="Мастер-технолог">Мастер-технолог</option><option value="Мастер-универсал">Мастер-универсал</option><option value="Материальный бухгалтер">Материальный бухгалтер</option><option value="Машинист">Машинист</option><option value="Машинист автокрана">Машинист автокрана</option><option value="Машинист асфальтоукладчика">Машинист асфальтоукладчика</option><option value="Машинист башенного крана">Машинист башенного крана</option><option value="Машинист бульдозера">Машинист бульдозера</option><option value="Машинист резальной машины">Машинист резальной машины</option><option value="Машинист трубоукладчика">Машинист трубоукладчика</option><option value="Машинист экскаватора">Машинист экскаватора</option><option value="Мебельщик">Мебельщик</option><option value="Медицинская сестра">Медицинская сестра</option><option value="Медицинский дезинфектор">Медицинский дезинфектор</option><option value="Медицинский координатор">Медицинский координатор</option><option value="Медицинский представитель">Медицинский представитель</option><option value="Медицинский работник">Медицинский работник</option><option value="Медсестра">Медсестра</option><option value="Медсестра стоматологии">Медсестра стоматологии</option><option value="Медсестра-сиделка">Медсестра-сиделка</option><option value="Медсестра/медбрат">Медсестра/медбрат</option><option value="Менеджер">Менеджер</option><option value="Менеджер боулинга">Менеджер боулинга</option><option value="Менеджер интернет-магазина">Менеджер интернет-магазина</option><option value="Менеджер магазина">Менеджер магазина</option><option value="Менеджер операционного отдела">Менеджер операционного отдела</option><option value="Менеджер отдела безналичных расчетов">Менеджер отдела безналичных расчетов</option><option value="Менеджер отдела охраны труда и техники безопасности">Менеджер отдела охраны труда и техники безопасности</option><option value="Менеджер по бронированию">Менеджер по бронированию</option><option value="Менеджер по заказам">Менеджер по заказам</option><option value="Менеджер по закупкам">Менеджер по закупкам</option><option value="Менеджер по клинингу">Менеджер по клинингу</option><option value="Менеджер по коммерческой недвижимости">Менеджер по коммерческой недвижимости</option><option value="Менеджер по логистике">Менеджер по логистике</option><option value="Менеджер по маркетингу">Менеджер по маркетингу</option><option value="Менеджер по маркетингу и pr">Менеджер по маркетингу и pr</option><option value="Менеджер по недвижимости">Менеджер по недвижимости</option><option value="Менеджер по персоналу">Менеджер по персоналу</option><option value="Менеджер по подбору персонала">Менеджер по подбору персонала</option><option value="Менеджер по полиграфии">Менеджер по полиграфии</option><option value="Менеджер по продажам">Менеджер по продажам</option><option value="Менеджер по продвижению">Менеджер по продвижению</option><option value="Менеджер по работе с клиентами">Менеджер по работе с клиентами</option><option value="Менеджер по развитию">Менеджер по развитию</option><option value="Менеджер по рекламе">Менеджер по рекламе</option><option value="Менеджер по страхованию">Менеджер по страхованию</option><option value="Менеджер по тендерам">Менеджер по тендерам</option><option value="Менеджер по туризму">Менеджер по туризму</option><option value="Менеджер проекта">Менеджер проекта</option><option value="Менеджер ресторана">Менеджер ресторана</option><option value="Менеджер салона мебели">Менеджер салона мебели</option><option value="Менеджер-консультант">Менеджер-консультант</option><option value="Мерчендайзер">Мерчендайзер</option><option value="Методист">Методист</option><option value="Механик">Механик</option><option value="Микробиолог">Микробиолог</option><option value="Мобильный кассир">Мобильный кассир</option><option value="Модель">Модель</option><option value="Модератор">Модератор</option><option value="Мойщик">Мойщик</option><option value="Мойщик посуды">Мойщик посуды</option><option value="Мойщица-уборщица">Мойщица-уборщица</option><option value="Монолитчик">Монолитчик</option><option value="Монтажник">Монтажник</option><option value="Монтажник башенных кранов">Монтажник башенных кранов</option><option value="Монтажник кондиционеров">Монтажник кондиционеров</option><option value="Монтажник металлоконструкций">Монтажник металлоконструкций</option><option value="Монтажник систем вентиляции">Монтажник систем вентиляции</option><option value="Монтажник слаботочных систем">Монтажник слаботочных систем</option><option value="Монтажник трубопроводов">Монтажник трубопроводов</option><option value="Монтажник фасадов">Монтажник фасадов</option><option value="Моторист">Моторист</option><option value="Мраморщик">Мраморщик</option><option value="Мужской парикмахер">Мужской парикмахер</option><option value="Музыкант">Музыкант</option><option value="Мультипликатор">Мультипликатор</option><option value="Мясник">Мясник</option><option value="Наборщик">Наборщик</option><option value="Наладчик">Наладчик</option><option value="Наладчик оборудования">Наладчик оборудования</option><option value="Наладчик станков с чпу">Наладчик станков с чпу</option><option value="Нарколог">Нарколог</option><option value="Научный сотрудник">Научный сотрудник</option><option value="Начальник отдела">Начальник отдела</option><option value="Начальник отдела продаж">Начальник отдела продаж</option><option value="Начальник службы охраны">Начальник службы охраны</option><option value="Начальник смены">Начальник смены</option><option value="Начальник участка">Начальник участка</option><option value="Начальник цеха">Начальник цеха</option><option value="Начинающий специалист">Начинающий специалист</option><option value="Невролог">Невролог</option><option value="Няня">Няня</option><option value="Няня-воспитатель">Няня-воспитатель</option><option value="Няня-гувернантка">Няня-гувернантка</option><option value="Обивщик">Обивщик</option><option value="Онколог">Онколог</option><option value="Оперативный дежурный">Оперативный дежурный</option><option value="Оператор">Оператор</option><option value="Оператор 1с">Оператор 1с</option><option value="Оператор call-центра">Оператор call-центра</option><option value="Оператор АЗС">Оператор АЗС</option><option value="Оператор базы данных">Оператор базы данных</option><option value="Оператор видеонаблюдения">Оператор видеонаблюдения</option><option value="Оператор лазерного станка">Оператор лазерного станка</option><option value="Оператор линии в производстве">Оператор линии в производстве</option><option value="Оператор на телефоне">Оператор на телефоне</option><option value="Оператор пк">Оператор пк</option><option value="Оператор связи">Оператор связи</option><option value="Оператор станка">Оператор станка</option><option value="Оператор станка с чпу">Оператор станка с чпу</option><option value="Оператор-диспетчер">Оператор-диспетчер</option><option value="Оператор-кассир">Оператор-кассир</option><option value="Оператор-консультант">Оператор-консультант</option><option value="Оператор-логист">Оператор-логист</option><option value="Оператор-наладчик">Оператор-наладчик</option><option value="Оператор-секретарь">Оператор-секретарь</option><option value="Оператор-упаковщик">Оператор-упаковщик</option><option value="Операционная медсестра">Операционная медсестра</option><option value="Оптик">Оптик</option><option value="Оптик-консультант">Оптик-консультант</option><option value="Ортодонт">Ортодонт</option><option value="Ортопед">Ортопед</option><option value="Отделочник">Отделочник</option><option value="Отделочник-универсал">Отделочник-универсал</option><option value="Оториноларинголог">Оториноларинголог</option><option value="Офис-менеджер">Офис-менеджер</option><option value="Официант">Официант</option><option value="Официант-администратор">Официант-администратор</option><option value="Официант-бармен">Официант-бармен</option><option value="Официант-кассир">Официант-кассир</option><option value="Официантка">Официантка</option><option value="Оформитель">Оформитель</option><option value="Офтальмолог">Офтальмолог</option><option value="Охранник">Охранник</option><option value="Охранник-администратор">Охранник-администратор</option><option value="Охранник-контролер">Охранник-контролер</option><option value="Оценщик">Оценщик</option><option value="Парикмахер">Парикмахер</option><option value="Парикмахер-визажист">Парикмахер-визажист</option><option value="Парикмахер-колорист">Парикмахер-колорист</option><option value="Парикмахер-стилист">Парикмахер-стилист</option><option value="Парикмахер-универсал">Парикмахер-универсал</option><option value="Парковщик">Парковщик</option><option value="Певец">Певец</option><option value="Педагог">Педагог</option><option value="Педагог английского языка">Педагог английского языка</option><option value="Педагог дополнительного образования">Педагог дополнительного образования</option><option value="Педагог по вокалу">Педагог по вокалу</option><option value="Педагог по раннему развитию">Педагог по раннему развитию</option><option value="Педагог-хореограф">Педагог-хореограф</option><option value="Педиатр">Педиатр</option><option value="Пекарь">Пекарь</option><option value="Пекарь на пирожки">Пекарь на пирожки</option><option value="Пекарь-кондитер">Пекарь-кондитер</option><option value="Пекарь-продавец">Пекарь-продавец</option><option value="Пекарь-тестовод">Пекарь-тестовод</option><option value="Пекарь-универсал">Пекарь-универсал</option><option value="Пенсионер врач">Пенсионер врач</option><option value="Переводчик">Переводчик</option><option value="Переводчик с английского языка">Переводчик с английского языка</option><option value="Персональный водитель">Персональный водитель</option><option value="Пескоструйщик">Пескоструйщик</option><option value="Печатник">Печатник</option><option value="Печатник офсетной печати">Печатник офсетной печати</option><option value="Печатник флексопечати">Печатник флексопечати</option><option value="Печатник-шелкограф">Печатник-шелкограф</option><option value="Пеший курьер">Пеший курьер</option><option value="Плиточник">Плиточник</option><option value="Плотник">Плотник</option><option value="Плотник-столяр">Плотник-столяр</option><option value="Повар">Повар</option><option value="Повар в бистро">Повар в бистро</option><option value="Повар горячего цеха">Повар горячего цеха</option><option value="Повар европейской кухни">Повар европейской кухни</option><option value="Повар кафе">Повар кафе</option><option value="Повар линии раздачи">Повар линии раздачи</option><option value="Повар национальной кухни">Повар национальной кухни</option><option value="Повар пиццы">Повар пиццы</option><option value="Повар по приготовлению плова">Повар по приготовлению плова</option><option value="Повар по приготовлению салатов">Повар по приготовлению салатов</option><option value="Повар по приготовлению самсы">Повар по приготовлению самсы</option><option value="Повар по приготовлению хот-догов">Повар по приготовлению хот-догов</option><option value="Повар по приготовлению шаурмы">Повар по приготовлению шаурмы</option><option value="Повар турецкой кухни">Повар турецкой кухни</option><option value="Повар фастфуда">Повар фастфуда</option><option value="Повар холодного цеха">Повар холодного цеха</option><option value="Повар-блинопек">Повар-блинопек</option><option value="Повар-вок">Повар-вок</option><option value="Повар-заготовщик">Повар-заготовщик</option><option value="Повар-кассир">Повар-кассир</option><option value="Повар-кондитер">Повар-кондитер</option><option value="Повар-мангальщик">Повар-мангальщик</option><option value="Повар-мясник">Повар-мясник</option><option value="Повар-универсал">Повар-универсал</option><option value="Подсобный рабочий">Подсобный рабочий</option><option value="Пожарный">Пожарный</option><option value="Полицейский">Полицейский</option><option value="Помощник">Помощник</option><option value="Помощник администратора">Помощник администратора</option><option value="Помощник бухгалтера">Помощник бухгалтера</option><option value="Помощник воспитателя">Помощник воспитателя</option><option value="Помощник директора">Помощник директора</option><option value="Помощник кондитера">Помощник кондитера</option><option value="Помощник мастера">Помощник мастера</option><option value="Помощник менеджера">Помощник менеджера</option><option value="Помощник повара">Помощник повара</option><option value="Помощник руководителя">Помощник руководителя</option><option value="Помощник юрисконсульта">Помощник юрисконсульта</option><option value="Помощник юриста">Помощник юриста</option><option value="Помощница">Помощница</option><option value="Портной">Портной</option><option value="Постпечатник">Постпечатник</option><option value="Почтальон">Почтальон</option><option value="Прачка">Прачка</option><option value="Преподаватель">Преподаватель</option><option value="Преподаватель английского языка">Преподаватель английского языка</option><option value="Преподаватель дошкольной подготовки">Преподаватель дошкольной подготовки</option><option value="Преподаватель курсов">Преподаватель курсов</option><option value="Преподаватель немецкого языка">Преподаватель немецкого языка</option><option value="Преподаватель русского языка">Преподаватель русского языка</option><option value="Преподаватель химии">Преподаватель химии</option><option value="Пресс-секретарь">Пресс-секретарь</option><option value="Приемщик">Приемщик</option><option value="Приемщик химчистки">Приемщик химчистки</option><option value="Провизор">Провизор</option><option value="Программист">Программист</option><option value="Программист 1с">Программист 1с</option><option value="Программист 3D">Программист 3D</option><option value="Программист php">Программист php</option><option value="Программист битрикс">Программист битрикс</option><option value="Программист-стажер">Программист-стажер</option><option value="Продавец">Продавец</option><option value="Продавец автозапчастей">Продавец автозапчастей</option><option value="Продавец алкоголя">Продавец алкоголя</option><option value="Продавец в киоск">Продавец в киоск</option><option value="Продавец в тц">Продавец в тц</option><option value="Продавец гастронома">Продавец гастронома</option><option value="Продавец за прилавок">Продавец за прилавок</option><option value="Продавец мебели">Продавец мебели</option><option value="Продавец мороженого">Продавец мороженого</option><option value="Продавец обуви">Продавец обуви</option><option value="Продавец одежды">Продавец одежды</option><option value="Продавец продуктов">Продавец продуктов</option><option value="Продавец салона связи">Продавец салона связи</option><option value="Продавец торгового зала">Продавец торгового зала</option><option value="Продавец цифровой техники">Продавец цифровой техники</option><option value="Продавец-грузчик">Продавец-грузчик</option><option value="Продавец-кассир">Продавец-кассир</option><option value="Продавец-консультант">Продавец-консультант</option><option value="Проектировщик">Проектировщик</option><option value="Проектировщик электроснабжения">Проектировщик электроснабжения</option><option value="Промоутер">Промоутер</option><option value="Прораб">Прораб</option><option value="Прораб отделочных работ">Прораб отделочных работ</option><option value="Профессиональный повар">Профессиональный повар</option><option value="Процедурная медсестра">Процедурная медсестра</option><option value="Психолог">Психолог</option><option value="Птицевод">Птицевод</option><option value="Работа для студентов">Работа для студентов</option><option value="Работа за границей">Работа за границей</option><option value="Работа на дому">Работа на дому</option><option value="Работник">Работник</option><option value="Работник в кафе">Работник в кафе</option><option value="Работник вулканизации">Работник вулканизации</option><option value="Работник линии раздачи">Работник линии раздачи</option><option value="Работник склада">Работник склада</option><option value="Работник службы безопасности">Работник службы безопасности</option><option value="Работница">Работница</option><option value="Рабочий">Рабочий</option><option value="Рабочий на склад">Рабочий на склад</option><option value="Рабочий по обслуживанию зданий">Рабочий по обслуживанию зданий</option><option value="Рабочий типографии">Рабочий типографии</option><option value="Радио-ведущий">Радио-ведущий</option><option value="Радиооператор">Радиооператор</option><option value="Раздатчица">Раздатчица</option><option value="Разнорабочий">Разнорабочий</option><option value="Разнорабочий в кафе">Разнорабочий в кафе</option><option value="Разнорабочий в цех">Разнорабочий в цех</option><option value="Разнорабочий на производство">Разнорабочий на производство</option><option value="Разнорабочий на стройку">Разнорабочий на стройку</option><option value="Разработчик мобильных приложений">Разработчик мобильных приложений</option><option value="Расклейщик">Расклейщик</option><option value="Раскройщик">Раскройщик</option><option value="Распиловщик">Распиловщик</option><option value="Распространитель">Распространитель</option><option value="Реализатор">Реализатор</option><option value="Реаниматолог">Реаниматолог</option><option value="Ревизор">Ревизор</option><option value="Региональный менеджер">Региональный менеджер</option><option value="Регистратор">Регистратор</option><option value="Редактор">Редактор</option><option value="Резчик">Резчик</option><option value="Резчик стекла">Резчик стекла</option><option value="Рекламный агент">Рекламный агент</option><option value="Рекрутер">Рекрутер</option><option value="Рекрутер-фрилансер">Рекрутер-фрилансер</option><option value="Рентгенолаборант">Рентгенолаборант</option><option value="Репетитор">Репетитор</option><option value="Ресепшионист">Ресепшионист</option><option value="Реставратор">Реставратор</option><option value="Референт">Референт</option><option value="Риэлтор">Риелтор</option><option value="Риелтор">Риелтор</option><option value="Руководитель">Руководитель</option><option value="Руководитель проекта">Руководитель проекта</option><option value="Садовник">Садовник</option><option value="Салатница">Салатница</option><option value="Санитарка">Санитарка</option><option value="Санитарный врач">Санитарный врач</option><option value="Сантехник">Сантехник</option><option value="Сантехник-монтажник">Сантехник-монтажник</option><option value="Сантехник-универсал">Сантехник-универсал</option><option value="Сантехник-электрик">Сантехник-электрик</option><option value="Сборщик">Сборщик</option><option value="Сборщик бытовой техники">Сборщик бытовой техники</option><option value="Сборщик мебели">Сборщик мебели</option><option value="Сборщик пк">Сборщик пк</option><option value="Сварщик">Сварщик</option><option value="Сварщик на полуавтомат">Сварщик на полуавтомат</option><option value="Сварщик-аргонщик">Сварщик-аргонщик</option><option value="Сварщик-монтажник">Сварщик-монтажник</option><option value="Сварщик-сантехник">Сварщик-сантехник</option><option value="Сварщик-сборщик">Сварщик-сборщик</option><option value="Секретарь">Секретарь</option><option value="Секретарь на ресепшн">Секретарь на ресепшн</option><option value="Секретарь-делопроизводитель">Секретарь-делопроизводитель</option><option value="Секретарь-референт">Секретарь-референт</option><option value="Семейная пара">Семейная пара</option><option value="Семейный повар">Семейный повар</option><option value="Сервировщица">Сервировщица</option><option value="Сервисный инженер">Сервисный инженер</option><option value="Сервисный мастер">Сервисный мастер</option><option value="Сиделка">Сиделка</option><option value="Сиделка с проживанием">Сиделка с проживанием</option><option value="Системный администратор">Системный администратор</option><option value="Сканировщик">Сканировщик</option><option value="Скаут">Скаут</option><option value="Слесарь">Слесарь</option><option value="Слесарь кипиа">Слесарь кипиа</option><option value="Слесарь-механик">Слесарь-механик</option><option value="Слесарь-ремонтник">Слесарь-ремонтник</option><option value="Слесарь-сантехник">Слесарь-сантехник</option><option value="Слесарь-сборщик">Слесарь-сборщик</option><option value="Слесарь-электрик">Слесарь-электрик</option><option value="Сметчик">Сметчик</option><option value="Снабженец">Снабженец</option><option value="Снабженец-экспедитор">Снабженец-экспедитор</option><option value="Сортировщик">Сортировщик</option><option value="Сотрудник офиса">Сотрудник офиса</option><option value="Сотрудник по информациям">Сотрудник по информациям</option><option value="Сотрудник службы охраны">Сотрудник службы охраны</option><option value="Специалист">Специалист</option><option value="Специалист отдела документирования клиентских операций">Специалист отдела документирования клиентских операций</option><option value="Специалист отдела межбанковских операций">Специалист отдела межбанковских операций</option><option value="Специалист по валютным операциям">Специалист по валютным операциям</option><option value="Специалист по информационной безопасности">Специалист по информационной безопасности</option><option value="Специалист по кадрам">Специалист по кадрам</option><option value="Специалист по корпоративным продажам">Специалист по корпоративным продажам</option><option value="Специалист по кредитованию">Специалист по кредитованию</option><option value="Специалист по лизингу">Специалист по лизингу</option><option value="Специалист по налогообложению">Специалист по налогообложению</option><option value="Специалист по обслуживанию банкоматов">Специалист по обслуживанию банкоматов</option><option value="Специалист по отчетности">Специалист по отчетности</option><option value="Специалист по пластиковым картам">Специалист по пластиковым картам</option><option value="Специалист по пожарной безопасности">Специалист по пожарной безопасности</option><option value="Специалист по продаже финансовых услуг">Специалист по продаже финансовых услуг</option><option value="Специалист по работе с клиентами">Специалист по работе с клиентами</option><option value="Специалист по страхованию">Специалист по страхованию</option><option value="Специалист по тендерам">Специалист по тендерам</option><option value="Специалист по ценным бумагам">Специалист по ценным бумагам</option><option value="Специалист расчетно-кассового обслуживания">Специалист расчетно-кассового обслуживания</option><option value="Специалист учебно-методического отдела">Специалист учебно-методического отдела</option><option value="Специалист хозяйственно-технического отдела">Специалист хозяйственно-технического отдела</option><option value="Специалиста по связям с общественностью">Специалиста по связям с общественностью</option><option value="Стажёр">Стажёр</option><option value="Станочник">Станочник</option><option value="Старший кассир">Старший кассир</option><option value="Старший повар">Старший повар</option><option value="Старший продавец">Старший продавец</option><option value="Стационарный мерчендайзер">Стационарный мерчендайзер</option><option value="Стикеровщик">Стикеровщик</option><option value="Стилист">Стилист</option><option value="Столяр">Столяр</option><option value="Стоматолог">Стоматолог</option><option value="Стоматолог-имплантолог">Стоматолог-имплантолог</option><option value="Стоматолог-ортопед">Стоматолог-ортопед</option><option value="Стоматолог-терапевт">Стоматолог-терапевт</option><option value="Стоматолог-хирург">Стоматолог-хирург</option><option value="Сторож">Сторож</option><option value="Страховой агент">Страховой агент</option><option value="Строитель">Строитель</option><option value="Су-шеф">Су-шеф</option><option value="Судебный юрист">Судебный юрист</option><option value="Супервайзер">Супервайзер</option><option value="Сушист">Сушист</option><option value="Тайный покупатель">Тайный покупатель</option><option value="Танцовщик">Танцовщик</option><option value="Танцовщица">Танцовщица</option><option value="Терапевт">Терапевт</option><option value="Территориальный менеджер">Территориальный менеджер</option><option value="Тестомес">Тестомес</option><option value="Техник">Техник</option><option value="Техник по обслуживанию">Техник по обслуживанию</option><option value="Техник-программист">Техник-программист</option><option value="Техник-электрик">Техник-электрик</option><option value="Технический директор">Технический директор</option><option value="Технический специалист">Технический специалист</option><option value="Техничка">Техничка</option><option value="Технолог">Технолог</option><option value="Технолог пищевого производства">Технолог пищевого производства</option><option value="Ткач">Ткач</option><option value="Товаровед">Товаровед</option><option value="Токарь">Токарь</option><option value="Токарь-универсал">Токарь-универсал</option><option value="Тонировщик">Тонировщик</option><option value="Торговый агент">Торговый агент</option><option value="Торговый представитель">Торговый представитель</option><option value="Травматолог">Травматолог</option><option value="Тракторист">Тракторист</option><option value="Транспортный диспетчер">Транспортный диспетчер</option><option value="Тренд-хантер">Тренд-хантер</option><option value="Тренер">Тренер</option><option value="Тренер по плаванию">Тренер по плаванию</option><option value="Тренер по фитнесу">Тренер по фитнесу</option><option value="Тренер по шахматам">Тренер по шахматам</option><option value="Тренер-инструктор">Тренер-инструктор</option><option value="Турагент">Турагент</option><option value="Уборщик">Уборщик</option><option value="Уборщица">Уборщица</option><option value="Уборщица-посудомойщица">Уборщица-посудомойщица</option><option value="Удалённая работа">Удалённая работа</option><option value="Укладчик">Укладчик</option><option value="Упаковщик">Упаковщик</option><option value="Управляющий">Управляющий</option><option value="Уролог">Уролог</option><option value="Установщик">Установщик</option><option value="Участковый">Участковый</option><option value="Ученик для мастера">Ученик для мастера</option><option value="Ученик рекламного менеджера">Ученик рекламного менеджера</option><option value="Учетчик">Учетчик</option><option value="Учитель">Учитель</option><option value="Учитель английского языка">Учитель английского языка</option><option value="Учитель биологии">Учитель биологии</option><option value="Учитель информатики">Учитель информатики</option><option value="Учитель истории">Учитель истории</option><option value="Учитель китайского языка">Учитель китайского языка</option><option value="Учитель математики">Учитель математики</option><option value="Учитель начальных классов">Учитель начальных классов</option><option value="Учитель русского языка">Учитель русского языка</option><option value="Фармацевт">Фармацевт</option><option value="Фасовщик">Фасовщик</option><option value="Фельдшер">Фельдшер</option><option value="Фермер">Фермер</option><option value="Финансист">Финансист</option><option value="Финансовый аналитик">Финансовый аналитик</option><option value="Финансовый бухгалтер">Финансовый бухгалтер</option><option value="Финансовый директор">Финансовый директор</option><option value="Финансовый консультант">Финансовый консультант</option><option value="Флорист">Флорист</option><option value="Формовщик">Формовщик</option><option value="Фотограф">Фотограф</option><option value="Фотограф-администратор">Фотограф-администратор</option><option value="Фотограф-дизайнер">Фотограф-дизайнер</option><option value="Фотомодель">Фотомодель</option><option value="Фрезеровщик">Фрезеровщик</option><option value="Фрезеровщик чпу">Фрезеровщик чпу</option><option value="Фрилансер">Фрилансер</option><option value="Хаус-мастер">Хаус-мастер</option><option value="Химик">Химик</option><option value="Хирург">Хирург</option><option value="Хореограф">Хореограф</option><option value="Хостес">Хостес</option><option value="Художник">Художник</option><option value="Цветочница">Цветочница</option><option value="Шашлычник">Шашлычник</option><option value="Швея">Швея</option><option value="Швея по пошиву штор">Швея по пошиву штор</option><option value="Швея-конструктор">Швея-конструктор</option><option value="Швея-мотористка">Швея-мотористка</option><option value="Швея-универсал">Швея-универсал</option><option value="Шеф-кондитер">Шеф-кондитер</option><option value="Шеф-повар">Шеф-повар</option><option value="Шеф-повар в ресторан">Шеф-повар в ресторан</option><option value="Шеф-повар столовой">Шеф-повар столовой</option><option value="Шиномонтажник">Шиномонтажник</option><option value="Шлифовщик">Шлифовщик</option><option value="Шпаклевщик">Шпаклевщик</option><option value="Штукатур">Штукатур</option><option value="Эколог">Эколог</option><option value="Экономист">Экономист</option><option value="Экскурсовод">Экскурсовод</option><option value="Экспедитор">Экспедитор</option><option value="Электрик">Электрик</option><option value="Электрик выездной">Электрик выездной</option><option value="Электромеханик">Электромеханик</option><option value="Электромеханик лифтов">Электромеханик лифтов</option><option value="Электромонтажник">Электромонтажник</option><option value="Электромонтер">Электромонтер</option><option value="Электронщик">Электронщик</option><option value="Электросварщик">Электросварщик</option><option value="Эндокринолог">Эндокринолог</option><option value="Эстетист">Эстетист</option><option value="Юрисконсульт">Юрисконсульт</option><option value="Юрист">Юрист</option><option value="Юрист по банкротству">Юрист по банкротству</option><option value="Юрист-регистратор">Юрист-регистратор</option></select>
+                </div>
+
+
+                <div class="col-md-3 col-xs-8 padding-0">
+                    <select id="search_work_schedule" class="simple-10" name="sch"><option selected="selected" value="">График работы</option><option value="1">полный рабочий день</option><option value="2">сменный график</option><option value="3">свободный график</option><option value="4">частичная занятость</option><option value="5">совмещение</option><option value="6">ночной график</option><option value="7">удаленная работа</option><option value="8">временная работа</option><option value="9">вахта</option></select>
+                </div>
+
+                <div class="col-md-3 col-xs-4 padding-0">
+                    <select id="gorod" class="simple-10" name="gorod"><option selected="selected" value="">Город</option><option value="1">Душанбе</option><option value="2">Худжанд</option><option value="3">Абдурахмони Джоми</option><option value="4">Айни</option><option value="5">Ашт</option><option value="6">Бальджуван</option><option value="7">Бободжон Гаффуров</option><option value="8">Бохтар (Курган-Тюбе)</option><option value="9">Бустон (Чкаловск)</option><option value="10">Вандж</option><option value="11">Варзоб</option><option value="12">Вахдат</option><option value="13">Вахш</option><option value="14">Восе</option><option value="15">Гиссар</option><option value="16">Горная Матча</option><option value="17">Гулистон (Кайраккум)</option><option value="18">Дангара</option><option value="19">Дарваз</option><option value="20">Деваштич (Ганчи)</option><option value="21">Джаббор Расулов</option><option value="22">Джайхун (Кумсангир)</option><option value="23">Джалолиддина Балхи (Руми)</option><option value="24">Джами</option><option value="25">Дусти (Джиликуль)</option><option value="26">Зафарабад</option><option value="27">Истаравшан</option><option value="28">Истиклол</option><option value="29">Исфара</option><option value="30">Ишкашим</option><option value="31">Кабодиён</option><option value="32">Канибадам</option><option value="33">Куляб</option><option value="34">Кушониён (Бохтар)</option><option value="35">Лахш (Джиргиталь)</option><option value="36">Леваканд (Сарбанд)</option><option value="37">Матча</option><option value="38">Муминабад</option><option value="39">Мургаб</option><option value="40">Носири Хусрав</option><option value="41">Нурабад</option><option value="42">Нурек</option><option value="43">Пенджикент</option><option value="44">Пяндж</option><option value="45">Рашт</option><option value="46">Рогун</option><option value="47">Рошткала</option><option value="48">Рудаки</option><option value="49">Рушан</option><option value="50">Сангвор (Тавильдара)</option><option value="51">Спитамен</option><option value="52">Таджикабад</option><option value="53">Темурмалик</option><option value="54">Турсунзаде</option><option value="55">Файзабад</option><option value="56">Фархор</option><option value="57">Хамадани</option><option value="58">Ховалинг</option><option value="59">Хорог</option><option value="60">Хуросон</option><option value="61">Шамсиддин Шохин (Шуроабад)</option><option value="62">Шахринав</option><option value="63">Шахристон</option><option value="64">Шахритус</option><option value="65">Шугнан</option><option value="66">Яван</option></select>
+                </div>
+
+        </div>
+        <div class="col-md-3 col-xs-3 padding-0 mobile-search-height">
+            <button name="submit" type="submit" class="btn btn-md btn-search-icon bg-blue padding-10" style="height: 100%;">
+                <i class="ti-search"></i>
+                <br class="mobile-break">
+                Поиск            </button>
+        </div>
+    </div>
+</form>
+
+
+                    
+                        
+                            
+                                
+                                    
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                            
+                        
+                    
+                </div>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+
+                    <div class="tab-pane  padding-left-10" id="resumes" role="tabpanel">
+                        <h2 class="search-title">Поиск сотрудника</h2>
+                <h3 style="color: white; line-height: 28px;">Найдите сотрудника на вашу вакансию.</h3>
+                    <div class="content padding-left-0">
+
+                    <form method="GET" action="https://korgar.tj/resume/poisk" accept-charset="UTF-8" class="form-ad">
+    <div class="row">
+        <div class="col-md-9 col-xs-9 padding-0">
+
+                <div class="col-md-6 col-xs-12 padding-0 height-50">
+                                        <select id="pos-resume" class="simple-10 mobile-border-bottom-0" name="dolzhnost"><option selected="selected" value=""></option><option value="3D-дизайнер">3D-дизайнер</option><option value="Cпециалист по розничным продажам">Cпециалист по розничным продажам</option><option value="Event-менеджер">Event-менеджер</option><option value="Front-end разработчик">Front-end разработчик</option><option value="HR-менеджер">HR-менеджер</option><option value="IT-менеджер">IT-менеджер</option><option value="IT-специалист">IT-специалист</option><option value="PR-менеджер">PR-менеджер</option><option value="PS Engineer">PS Engineer</option><option value="QA-менеджер">QA-менеджер</option><option value="SEO-специалист">SEO-специалист</option><option value="SMM-аналитик">SMM-аналитик</option><option value="SMM-менеджер">SMM-менеджер</option><option value="SMM-помощник">SMM-помощник</option><option value="SMM-специалист">SMM-специалист</option><option value="Web-дизайнер">Web-дизайнер</option><option value="Web-программист">Web-программист</option><option value="WordPress разработчик">WordPress разработчик</option><option value="iOS разработчик">iOS разработчик</option><option value="Автожестянщик">Автожестянщик</option><option value="Автожестянщик-арматурщик">Автожестянщик-арматурщик</option><option value="Автомаляр">Автомаляр</option><option value="Автомеханик">Автомеханик</option><option value="Автомеханик-автослесарь">Автомеханик-автослесарь</option><option value="Автомойщик">Автомойщик</option><option value="Автослесарь">Автослесарь</option><option value="Автоэлектрик">Автоэлектрик</option><option value="Агент">Агент</option><option value="Агент по коммерческой недвижимости">Агент по коммерческой недвижимости</option><option value="Агент по продаже недвижимости">Агент по продаже недвижимости</option><option value="Агроном">Агроном</option><option value="Агроном-растениевод">Агроном-растениевод</option><option value="Адвокат">Адвокат</option><option value="Административный директор">Административный директор</option><option value="Администратор">Администратор</option><option value="Администратор баз данных">Администратор баз данных</option><option value="Администратор гостиницы">Администратор гостиницы</option><option value="Администратор кафе">Администратор кафе</option><option value="Администратор магазина">Администратор магазина</option><option value="Администратор на ресепшн">Администратор на ресепшн</option><option value="Администратор ресторана">Администратор ресторана</option><option value="Администратор сайта">Администратор сайта</option><option value="Администратор салона">Администратор салона</option><option value="Администратор салона красоты">Администратор салона красоты</option><option value="Администратор службы приема и размещения">Администратор службы приема и размещения</option><option value="Администратор стоматологической клиники">Администратор стоматологической клиники</option><option value="Администратор-кассир">Администратор-кассир</option><option value="Акробат">Акробат</option><option value="Актер">Актер</option><option value="Актриса">Актриса</option><option value="Акушер">Акушер</option><option value="Акушер-гинеколог">Акушер-гинеколог</option><option value="Аналитик">Аналитик</option><option value="Анестезиолог">Анестезиолог</option><option value="Аниматор">Аниматор</option><option value="Арматурщик">Арматурщик</option><option value="Архитектор">Архитектор</option><option value="Архитектор-дизайнер">Архитектор-дизайнер</option><option value="Архитектор-проектировщик">Архитектор-проектировщик</option><option value="Ассистент">Ассистент</option><option value="Ассистент врача стоматолога">Ассистент врача стоматолога</option><option value="Аудитор">Аудитор</option><option value="Банщик">Банщик</option><option value="Бариста">Бариста</option><option value="Бариста-кассир">Бариста-кассир</option><option value="Бармен">Бармен</option><option value="Бармен-бариста">Бармен-бариста</option><option value="Бетонщик">Бетонщик</option><option value="Библиотекарь">Библиотекарь</option><option value="Бизнес-аналитик">Бизнес-аналитик</option><option value="Бизнес-ассистент">Бизнес-ассистент</option><option value="Бизнес-консультант">Бизнес-консультант</option><option value="Бизнес-партнер">Бизнес-партнер</option><option value="Бизнес-тренер">Бизнес-тренер</option><option value="Блогер">Блогер</option><option value="Бренд-менеджер">Бренд-менеджер</option><option value="Бригада строителей">Бригада строителей</option><option value="Бригадир">Бригадир</option><option value="Бригады">Бригады</option><option value="Брошюровщик">Брошюровщик</option><option value="Буфетчик">Буфетчик</option><option value="Бухгалтер">Бухгалтер</option><option value="Бухгалтер 1с">Бухгалтер 1с</option><option value="Бухгалтер по зарплате">Бухгалтер по зарплате</option><option value="Бухгалтер по учету тмц">Бухгалтер по учету тмц</option><option value="Бухгалтер производственник">Бухгалтер производственник</option><option value="Бухгалтер-калькулятор">Бухгалтер-калькулятор</option><option value="Бухгалтер-кассир">Бухгалтер-кассир</option><option value="Бухгалтер-операционист">Бухгалтер-операционист</option><option value="Бухгалтер-экономист">Бухгалтер-экономист</option><option value="Вальцовщик">Вальцовщик</option><option value="Ведущий">Ведущий</option><option value="Ведущий дизайнер">Ведущий дизайнер</option><option value="Ведущий конструктор">Ведущий конструктор</option><option value="Ведущий программист">Ведущий программист</option><option value="Верстальщик">Верстальщик</option><option value="Ветеринарный врач">Ветеринарный врач</option><option value="Видео-оператор">Видео-оператор</option><option value="Видеомейкер">Видеомейкер</option><option value="Видеомонтажер">Видеомонтажер</option><option value="Визажист">Визажист</option><option value="Визитный мерчендайзер">Визитный мерчендайзер</option><option value="Визуализатор">Визуализатор</option><option value="Винильщик">Винильщик</option><option value="Внутренний аудитор">Внутренний аудитор</option><option value="Водитель">Водитель</option><option value="Водитель автобуса">Водитель автобуса</option><option value="Водитель автогрейдера">Водитель автогрейдера</option><option value="Водитель газели">Водитель газели</option><option value="Водитель грузовика">Водитель грузовика</option><option value="Водитель погрузчика">Водитель погрузчика</option><option value="Водитель прт">Водитель прт</option><option value="Водитель с личным автомобилем">Водитель с личным автомобилем</option><option value="Водитель такси">Водитель такси</option><option value="Водитель штабелера">Водитель штабелера</option><option value="Водитель эвакуатора">Водитель эвакуатора</option><option value="Водитель-грузчик">Водитель-грузчик</option><option value="Водитель-дальнобойщик">Водитель-дальнобойщик</option><option value="Водитель-инкассатор">Водитель-инкассатор</option><option value="Водитель-курьер">Водитель-курьер</option><option value="Водитель-механик">Водитель-механик</option><option value="Водитель-монтажник">Водитель-монтажник</option><option value="Водитель-экспедитор">Водитель-экспедитор</option><option value="Волонтёр">Волонтёр</option><option value="Воспитатель">Воспитатель</option><option value="Воспитатель детского сада">Воспитатель детского сада</option><option value="Врач">Врач</option><option value="Врач гинеколог">Врач гинеколог</option><option value="Врач дерматовенеролог">Врач дерматовенеролог</option><option value="Врач косметолог">Врач косметолог</option><option value="Врач общей практики">Врач общей практики</option><option value="Врач психиатр">Врач психиатр</option><option value="Врач узи">Врач узи</option><option value="Врач-инфекционист">Врач-инфекционист</option><option value="Газорезчик">Газорезчик</option><option value="Газоэлектросварщик">Газоэлектросварщик</option><option value="Гастрономист">Гастрономист</option><option value="Гастроэнтеролог">Гастроэнтеролог</option><option value="Генеральный директор">Генеральный директор</option><option value="Генпланист">Генпланист</option><option value="Геодезист">Геодезист</option><option value="Гипсокартонщик">Гипсокартонщик</option><option value="Гитарист">Гитарист</option><option value="Главный бухгалтер">Главный бухгалтер</option><option value="Главный инженер">Главный инженер</option><option value="Главный редактор">Главный редактор</option><option value="Главный специалист">Главный специалист</option><option value="Главный энергетик">Главный энергетик</option><option value="Гладильщик">Гладильщик</option><option value="Горничная">Горничная</option><option value="Графический дизайнер">Графический дизайнер</option><option value="Грузчик">Грузчик</option><option value="Грузчик-комплектовщик">Грузчик-комплектовщик</option><option value="Грузчик-упаковщик">Грузчик-упаковщик</option><option value="Гувернантка">Гувернантка</option><option value="Дворник">Дворник</option><option value="Дегустатор">Дегустатор</option><option value="Дежурный электрик">Дежурный электрик</option><option value="Делопроизводитель">Делопроизводитель</option><option value="Дерматолог-косметолог">Дерматолог-косметолог</option><option value="Детский инструктор">Детский инструктор</option><option value="Детский массажист">Детский массажист</option><option value="Детский парикмахер">Детский парикмахер</option><option value="Детский стоматолог">Детский стоматолог</option><option value="Диагност">Диагност</option><option value="Диджей">Диджей</option><option value="Дизайнер">Дизайнер</option><option value="Дизайнер интерьера">Дизайнер интерьера</option><option value="Дизайнер мебели">Дизайнер мебели</option><option value="Дизайнер одежды">Дизайнер одежды</option><option value="Дизайнер штор">Дизайнер штор</option><option value="Дизайнер-верстальщик">Дизайнер-верстальщик</option><option value="Дизайнер-конструктор">Дизайнер-конструктор</option><option value="Дизайнер-консультант">Дизайнер-консультант</option><option value="Дизайнер модельер">Дизайнер-модельер</option><option value="Директор">Директор</option><option value="Директор агентства">Директор агентства</option><option value="Директор магазина">Директор магазина</option><option value="Директор по инвестициям">Директор по инвестициям</option><option value="Директор по качеству">Директор по качеству</option><option value="Директор по маркетингу">Директор по маркетингу</option><option value="Директор по персоналу">Директор по персоналу</option><option value="Директор по продажам">Директор по продажам</option><option value="Директор по развитию">Директор по развитию</option><option value="Директор по рекламе">Директор по рекламе</option><option value="Директор филиала">Директор филиала</option><option value="Директор юридической службы">Директор юридической службы</option><option value="Диспетчер">Диспетчер</option><option value="Диспетчер на телефоне">Диспетчер на телефоне</option><option value="Диспетчер такси">Диспетчер такси</option><option value="Диспетчер-логист">Диспетчер-логист</option><option value="Дистрибьютор">Дистрибьютор</option><option value="Домработница">Домработница</option><option value="Домработница-няня">Домработница-няня</option><option value="Доставщик">Доставщик</option><option value="Женский парикмахер">Женский парикмахер</option><option value="Жестянщик">Жестянщик</option><option value="Журналист">Журналист</option><option value="Заведующий">Заведующий</option><option value="Заведующий гаражом">Заведующий гаражом</option><option value="Заведующий складом">Заведующий складом</option><option value="Заготовщик">Заготовщик</option><option value="Закройщик">Закройщик</option><option value="Замерщик">Замерщик</option><option value="Замерщик окон">Замерщик окон</option><option value="Заместитель">Заместитель</option><option value="Заместитель главного бухгалтера">Заместитель главного бухгалтера</option><option value="Заместитель директора">Заместитель директора</option><option value="Заместитель руководителя">Заместитель руководителя</option><option value="Заместитель управляющего">Заместитель управляющего</option><option value="Заправщик">Заправщик</option><option value="Заправщик картриджей">Заправщик картриджей</option><option value="Затяжчик обуви">Затяжчик обуви</option><option value="Заявщик">Заявщик</option><option value="Звукорежиссер">Звукорежиссер</option><option value="Зоотехник">Зоотехник</option><option value="Зубной техник">Зубной техник</option><option value="Инженер">Инженер</option><option value="Инженер кипиа">Инженер кипиа</option><option value="Инженер по вентиляции">Инженер по вентиляции</option><option value="Инженер по оборудованию">Инженер по оборудованию</option><option value="Инженер по обслуживанию">Инженер по обслуживанию</option><option value="Инженер по охране труда">Инженер по охране труда</option><option value="Инженер по сетям">Инженер по сетям</option><option value="Инженер по снабжению">Инженер по снабжению</option><option value="Инженер по технике безопасности">Инженер по технике безопасности</option><option value="Инженер по эксплуатации">Инженер по эксплуатации</option><option value="Инженер проекта">Инженер проекта</option><option value="Инженер прораб">Инженер прораб</option><option value="Инженер пто">Инженер пто</option><option value="Инженер слаботочных систем">Инженер слаботочных систем</option><option value="Инженер-конструктор">Инженер-конструктор</option><option value="Инженер-механик">Инженер-механик</option><option value="Инженер-наладчик">Инженер-наладчик</option><option value="Инженер-программист">Инженер-программист</option><option value="Инженер-проектировщик">Инженер-проектировщик</option><option value="Инженер-проектировщик вк">Инженер-проектировщик вк</option><option value="Инженер-проектировщик овик">Инженер-проектировщик овик</option><option value="Инженер-сметчик">Инженер-сметчик</option><option value="Инженер-строитель">Инженер-строитель</option><option value="Инженер-технолог">Инженер-технолог</option><option value="Инженер-электрик">Инженер-электрик</option><option value="Инженер-электроник">Инженер-электроник</option><option value="Инкассатор">Инкассатор</option><option value="Инспектор">Инспектор</option><option value="Инспектор по кадрам">Инспектор по кадрам</option><option value="Инструктор">Инструктор</option><option value="Инструктор игротеки">Инструктор игротеки</option><option value="Инструктор лфк">Инструктор лфк</option><option value="Инструктор по плаванию">Инструктор по плаванию</option><option value="Интервьюер">Интервьюер</option><option value="Интернет-маркетолог">Интернет-маркетолог</option><option value="Информационный представитель">Информационный представитель</option><option value="Исполнительный директор">Исполнительный директор</option><option value="Кальянщик">Кальянщик</option><option value="Каменщик">Каменщик</option><option value="Кардиолог">Кардиолог</option><option value="Кассир">Кассир</option><option value="Кассир столовой">Кассир столовой</option><option value="Кассир-бармен">Кассир-бармен</option><option value="Кассир-консультант">Кассир-консультант</option><option value="Кассир-логист">Кассир-логист</option><option value="Кассир-менеджер">Кассир-менеджер</option><option value="Кассир-оператор">Кассир-оператор</option><option value="Кассир-операционист">Кассир-операционист</option><option value="Кафельщик">Кафельщик</option><option value="Кинолог">Кинолог</option><option value="Кладовщик">Кладовщик</option><option value="Кладовщик-грузчик">Кладовщик-грузчик</option><option value="Кладовщик-комплектовщик">Кладовщик-комплектовщик</option><option value="Кладовщик-упаковщик">Кладовщик-упаковщик</option><option value="Кладчик">Кладчик</option><option value="Комментатор">Комментатор</option><option value="Коммерческий директор">Коммерческий директор</option><option value="Комплектовщик">Комплектовщик</option><option value="Композитор">Композитор</option><option value="Компьютерный мастер">Компьютерный мастер</option><option value="Компьютерщик">Компьютерщик</option><option value="Кондитер">Кондитер</option><option value="Кондитер-декоратор">Кондитер-декоратор</option><option value="Кондитер-оформитель">Кондитер-оформитель</option><option value="Кондитер-технолог">Кондитер-технолог</option><option value="Конструктор">Конструктор</option><option value="Конструктор мебели">Конструктор мебели</option><option value="Конструктор одежды">Конструктор одежды</option><option value="Консультант">Консультант</option><option value="Консьерж">Консьерж</option><option value="Контент-менеджер">Контент-менеджер</option><option value="Контролер">Контролер</option><option value="Контролер отдела технического контроля">Контролер отдела технического контроля</option><option value="Контролер отк">Контролер отк</option><option value="Контролер торгового зала">Контролер торгового зала</option><option value="Контролер-кассир">Контролер-кассир</option><option value="Координатор">Координатор</option><option value="Координатор проектов">Координатор проектов</option><option value="Копирайтер">Копирайтер</option><option value="Коренщик">Коренщик</option><option value="Корреспондент">Корреспондент</option><option value="Косметолог">Косметолог</option><option value="Косметолог-эстетист">Косметолог-эстетист</option><option value="Котломойщик">Котломойщик</option><option value="Кофе-леди">Кофе-леди</option><option value="Кочегар">Кочегар</option><option value="Крановщик">Крановщик</option><option value="Креативный менеджер">Креативный менеджер</option><option value="Кредитный эксперт">Кредитный эксперт</option><option value="Кровельщик">Кровельщик</option><option value="Кузнец">Кузнец</option><option value="Куратор аптек">Куратор аптек</option><option value="Курьер">Курьер</option><option value="Курьер internet-магазина">Курьер internet-магазина</option><option value="Курьер на велосипеде">Курьер на велосипеде</option><option value="Курьер на скутере">Курьер на скутере</option><option value="Курьер-регистратор">Курьер-регистратор</option><option value="Курьер-экспедитор">Курьер-экспедитор</option><option value="Кухонный рабочий">Кухонный рабочий</option><option value="Лаборант">Лаборант</option><option value="Лешмейкер">Лешмейкер</option><option value="Литейщик">Литейщик</option><option value="Лифтер">Лифтер</option><option value="Логист">Логист</option><option value="Логист оператор">Логист оператор</option><option value="Логопед">Логопед</option><option value="Логопед-дефектолог">Логопед-дефектолог</option><option value="Макетчик">Макетчик</option><option value="Маляр">Маляр</option><option value="Маляр-отделочник">Маляр-отделочник</option><option value="Маляр-штукатур">Маляр-штукатур</option><option value="Мангальщик">Мангальщик</option><option value="Маркетолог">Маркетолог</option><option value="Маркетолог-аналитик">Маркетолог-аналитик</option><option value="Маркировщик">Маркировщик</option><option value="Массажист">Массажист</option><option value="Мастер">Мастер</option><option value="Мастер бровист">Мастер бровист</option><option value="Мастер в салон красоты">Мастер в салон красоты</option><option value="Мастер депиляции">Мастер депиляции</option><option value="Мастер корпусной мебели">Мастер корпусной мебели</option><option value="Мастер макияжа">Мастер макияжа</option><option value="Мастер маникюра">Мастер маникюра</option><option value="Мастер маникюра-педикюра">Мастер маникюра-педикюра</option><option value="Мастер на пилораму">Мастер на пилораму</option><option value="Мастер ногтевого сервиса">Мастер ногтевого сервиса</option><option value="Мастер педикюра">Мастер педикюра</option><option value="Мастер по замене масла">Мастер по замене масла</option><option value="Мастер по изготовлению наружной рекламы">Мастер по изготовлению наружной рекламы</option><option value="Мастер по компьютерной диагностики">Мастер по компьютерной диагностики</option><option value="Мастер по коррекции бровей">Мастер по коррекции бровей</option><option value="Мастер по мягкой мебели">Мастер по мягкой мебели</option><option value="Мастер по наращиванию ногтей">Мастер по наращиванию ногтей</option><option value="Мастер по наращиванию ресниц">Мастер по наращиванию ресниц</option><option value="Мастер по ремонту">Мастер по ремонту</option><option value="Мастер по ремонту кондиционеров">Мастер по ремонту кондиционеров</option><option value="Мастер по ремонту обуви">Мастер по ремонту обуви</option><option value="Мастер по ремонту одежды">Мастер по ремонту одежды</option><option value="Мастер по ремонту сотовых телефонов">Мастер по ремонту сотовых телефонов</option><option value="Мастер по ремонту телефонов">Мастер по ремонту телефонов</option><option value="Мастер по ремонту холодильников">Мастер по ремонту холодильников</option><option value="Мастер по шугарингу">Мастер по шугарингу</option><option value="Мастер разделки и упаковки">Мастер разделки и упаковки</option><option value="Мастер ремонта стиральных машин">Мастер ремонта стиральных машин</option><option value="Мастер татуажа">Мастер татуажа</option><option value="Мастер участка">Мастер участка</option><option value="Мастер цеха">Мастер цеха</option><option value="Мастер-приемщик">Мастер-приемщик</option><option value="Мастер-технолог">Мастер-технолог</option><option value="Мастер-универсал">Мастер-универсал</option><option value="Материальный бухгалтер">Материальный бухгалтер</option><option value="Машинист">Машинист</option><option value="Машинист автокрана">Машинист автокрана</option><option value="Машинист асфальтоукладчика">Машинист асфальтоукладчика</option><option value="Машинист башенного крана">Машинист башенного крана</option><option value="Машинист бульдозера">Машинист бульдозера</option><option value="Машинист резальной машины">Машинист резальной машины</option><option value="Машинист трубоукладчика">Машинист трубоукладчика</option><option value="Машинист экскаватора">Машинист экскаватора</option><option value="Мебельщик">Мебельщик</option><option value="Медицинская сестра">Медицинская сестра</option><option value="Медицинский дезинфектор">Медицинский дезинфектор</option><option value="Медицинский координатор">Медицинский координатор</option><option value="Медицинский представитель">Медицинский представитель</option><option value="Медицинский работник">Медицинский работник</option><option value="Медсестра">Медсестра</option><option value="Медсестра стоматологии">Медсестра стоматологии</option><option value="Медсестра-сиделка">Медсестра-сиделка</option><option value="Медсестра/медбрат">Медсестра/медбрат</option><option value="Менеджер">Менеджер</option><option value="Менеджер боулинга">Менеджер боулинга</option><option value="Менеджер интернет-магазина">Менеджер интернет-магазина</option><option value="Менеджер магазина">Менеджер магазина</option><option value="Менеджер операционного отдела">Менеджер операционного отдела</option><option value="Менеджер отдела безналичных расчетов">Менеджер отдела безналичных расчетов</option><option value="Менеджер отдела охраны труда и техники безопасности">Менеджер отдела охраны труда и техники безопасности</option><option value="Менеджер по бронированию">Менеджер по бронированию</option><option value="Менеджер по заказам">Менеджер по заказам</option><option value="Менеджер по закупкам">Менеджер по закупкам</option><option value="Менеджер по клинингу">Менеджер по клинингу</option><option value="Менеджер по коммерческой недвижимости">Менеджер по коммерческой недвижимости</option><option value="Менеджер по логистике">Менеджер по логистике</option><option value="Менеджер по маркетингу">Менеджер по маркетингу</option><option value="Менеджер по маркетингу и pr">Менеджер по маркетингу и pr</option><option value="Менеджер по недвижимости">Менеджер по недвижимости</option><option value="Менеджер по персоналу">Менеджер по персоналу</option><option value="Менеджер по подбору персонала">Менеджер по подбору персонала</option><option value="Менеджер по полиграфии">Менеджер по полиграфии</option><option value="Менеджер по продажам">Менеджер по продажам</option><option value="Менеджер по продвижению">Менеджер по продвижению</option><option value="Менеджер по работе с клиентами">Менеджер по работе с клиентами</option><option value="Менеджер по развитию">Менеджер по развитию</option><option value="Менеджер по рекламе">Менеджер по рекламе</option><option value="Менеджер по страхованию">Менеджер по страхованию</option><option value="Менеджер по тендерам">Менеджер по тендерам</option><option value="Менеджер по туризму">Менеджер по туризму</option><option value="Менеджер проекта">Менеджер проекта</option><option value="Менеджер ресторана">Менеджер ресторана</option><option value="Менеджер салона мебели">Менеджер салона мебели</option><option value="Менеджер-консультант">Менеджер-консультант</option><option value="Мерчендайзер">Мерчендайзер</option><option value="Методист">Методист</option><option value="Механик">Механик</option><option value="Микробиолог">Микробиолог</option><option value="Мобильный кассир">Мобильный кассир</option><option value="Модель">Модель</option><option value="Модератор">Модератор</option><option value="Мойщик">Мойщик</option><option value="Мойщик посуды">Мойщик посуды</option><option value="Мойщица-уборщица">Мойщица-уборщица</option><option value="Монолитчик">Монолитчик</option><option value="Монтажник">Монтажник</option><option value="Монтажник башенных кранов">Монтажник башенных кранов</option><option value="Монтажник кондиционеров">Монтажник кондиционеров</option><option value="Монтажник металлоконструкций">Монтажник металлоконструкций</option><option value="Монтажник систем вентиляции">Монтажник систем вентиляции</option><option value="Монтажник слаботочных систем">Монтажник слаботочных систем</option><option value="Монтажник трубопроводов">Монтажник трубопроводов</option><option value="Монтажник фасадов">Монтажник фасадов</option><option value="Моторист">Моторист</option><option value="Мраморщик">Мраморщик</option><option value="Мужской парикмахер">Мужской парикмахер</option><option value="Музыкант">Музыкант</option><option value="Мультипликатор">Мультипликатор</option><option value="Мясник">Мясник</option><option value="Наборщик">Наборщик</option><option value="Наладчик">Наладчик</option><option value="Наладчик оборудования">Наладчик оборудования</option><option value="Наладчик станков с чпу">Наладчик станков с чпу</option><option value="Нарколог">Нарколог</option><option value="Научный сотрудник">Научный сотрудник</option><option value="Начальник отдела">Начальник отдела</option><option value="Начальник отдела продаж">Начальник отдела продаж</option><option value="Начальник службы охраны">Начальник службы охраны</option><option value="Начальник смены">Начальник смены</option><option value="Начальник участка">Начальник участка</option><option value="Начальник цеха">Начальник цеха</option><option value="Начинающий специалист">Начинающий специалист</option><option value="Невролог">Невролог</option><option value="Няня">Няня</option><option value="Няня-воспитатель">Няня-воспитатель</option><option value="Няня-гувернантка">Няня-гувернантка</option><option value="Обивщик">Обивщик</option><option value="Онколог">Онколог</option><option value="Оперативный дежурный">Оперативный дежурный</option><option value="Оператор">Оператор</option><option value="Оператор 1с">Оператор 1с</option><option value="Оператор call-центра">Оператор call-центра</option><option value="Оператор АЗС">Оператор АЗС</option><option value="Оператор базы данных">Оператор базы данных</option><option value="Оператор видеонаблюдения">Оператор видеонаблюдения</option><option value="Оператор лазерного станка">Оператор лазерного станка</option><option value="Оператор линии в производстве">Оператор линии в производстве</option><option value="Оператор на телефоне">Оператор на телефоне</option><option value="Оператор пк">Оператор пк</option><option value="Оператор связи">Оператор связи</option><option value="Оператор станка">Оператор станка</option><option value="Оператор станка с чпу">Оператор станка с чпу</option><option value="Оператор-диспетчер">Оператор-диспетчер</option><option value="Оператор-кассир">Оператор-кассир</option><option value="Оператор-консультант">Оператор-консультант</option><option value="Оператор-логист">Оператор-логист</option><option value="Оператор-наладчик">Оператор-наладчик</option><option value="Оператор-секретарь">Оператор-секретарь</option><option value="Оператор-упаковщик">Оператор-упаковщик</option><option value="Операционная медсестра">Операционная медсестра</option><option value="Оптик">Оптик</option><option value="Оптик-консультант">Оптик-консультант</option><option value="Ортодонт">Ортодонт</option><option value="Ортопед">Ортопед</option><option value="Отделочник">Отделочник</option><option value="Отделочник-универсал">Отделочник-универсал</option><option value="Оториноларинголог">Оториноларинголог</option><option value="Офис-менеджер">Офис-менеджер</option><option value="Официант">Официант</option><option value="Официант-администратор">Официант-администратор</option><option value="Официант-бармен">Официант-бармен</option><option value="Официант-кассир">Официант-кассир</option><option value="Официантка">Официантка</option><option value="Оформитель">Оформитель</option><option value="Офтальмолог">Офтальмолог</option><option value="Охранник">Охранник</option><option value="Охранник-администратор">Охранник-администратор</option><option value="Охранник-контролер">Охранник-контролер</option><option value="Оценщик">Оценщик</option><option value="Парикмахер">Парикмахер</option><option value="Парикмахер-визажист">Парикмахер-визажист</option><option value="Парикмахер-колорист">Парикмахер-колорист</option><option value="Парикмахер-стилист">Парикмахер-стилист</option><option value="Парикмахер-универсал">Парикмахер-универсал</option><option value="Парковщик">Парковщик</option><option value="Певец">Певец</option><option value="Педагог">Педагог</option><option value="Педагог английского языка">Педагог английского языка</option><option value="Педагог дополнительного образования">Педагог дополнительного образования</option><option value="Педагог по вокалу">Педагог по вокалу</option><option value="Педагог по раннему развитию">Педагог по раннему развитию</option><option value="Педагог-хореограф">Педагог-хореограф</option><option value="Педиатр">Педиатр</option><option value="Пекарь">Пекарь</option><option value="Пекарь на пирожки">Пекарь на пирожки</option><option value="Пекарь-кондитер">Пекарь-кондитер</option><option value="Пекарь-продавец">Пекарь-продавец</option><option value="Пекарь-тестовод">Пекарь-тестовод</option><option value="Пекарь-универсал">Пекарь-универсал</option><option value="Пенсионер врач">Пенсионер врач</option><option value="Переводчик">Переводчик</option><option value="Переводчик с английского языка">Переводчик с английского языка</option><option value="Персональный водитель">Персональный водитель</option><option value="Пескоструйщик">Пескоструйщик</option><option value="Печатник">Печатник</option><option value="Печатник офсетной печати">Печатник офсетной печати</option><option value="Печатник флексопечати">Печатник флексопечати</option><option value="Печатник-шелкограф">Печатник-шелкограф</option><option value="Пеший курьер">Пеший курьер</option><option value="Плиточник">Плиточник</option><option value="Плотник">Плотник</option><option value="Плотник-столяр">Плотник-столяр</option><option value="Повар">Повар</option><option value="Повар в бистро">Повар в бистро</option><option value="Повар горячего цеха">Повар горячего цеха</option><option value="Повар европейской кухни">Повар европейской кухни</option><option value="Повар кафе">Повар кафе</option><option value="Повар линии раздачи">Повар линии раздачи</option><option value="Повар национальной кухни">Повар национальной кухни</option><option value="Повар пиццы">Повар пиццы</option><option value="Повар по приготовлению плова">Повар по приготовлению плова</option><option value="Повар по приготовлению салатов">Повар по приготовлению салатов</option><option value="Повар по приготовлению самсы">Повар по приготовлению самсы</option><option value="Повар по приготовлению хот-догов">Повар по приготовлению хот-догов</option><option value="Повар по приготовлению шаурмы">Повар по приготовлению шаурмы</option><option value="Повар турецкой кухни">Повар турецкой кухни</option><option value="Повар фастфуда">Повар фастфуда</option><option value="Повар холодного цеха">Повар холодного цеха</option><option value="Повар-блинопек">Повар-блинопек</option><option value="Повар-вок">Повар-вок</option><option value="Повар-заготовщик">Повар-заготовщик</option><option value="Повар-кассир">Повар-кассир</option><option value="Повар-кондитер">Повар-кондитер</option><option value="Повар-мангальщик">Повар-мангальщик</option><option value="Повар-мясник">Повар-мясник</option><option value="Повар-универсал">Повар-универсал</option><option value="Подсобный рабочий">Подсобный рабочий</option><option value="Пожарный">Пожарный</option><option value="Полицейский">Полицейский</option><option value="Помощник">Помощник</option><option value="Помощник администратора">Помощник администратора</option><option value="Помощник бухгалтера">Помощник бухгалтера</option><option value="Помощник воспитателя">Помощник воспитателя</option><option value="Помощник директора">Помощник директора</option><option value="Помощник кондитера">Помощник кондитера</option><option value="Помощник мастера">Помощник мастера</option><option value="Помощник менеджера">Помощник менеджера</option><option value="Помощник повара">Помощник повара</option><option value="Помощник руководителя">Помощник руководителя</option><option value="Помощник юрисконсульта">Помощник юрисконсульта</option><option value="Помощник юриста">Помощник юриста</option><option value="Помощница">Помощница</option><option value="Портной">Портной</option><option value="Постпечатник">Постпечатник</option><option value="Почтальон">Почтальон</option><option value="Прачка">Прачка</option><option value="Преподаватель">Преподаватель</option><option value="Преподаватель английского языка">Преподаватель английского языка</option><option value="Преподаватель дошкольной подготовки">Преподаватель дошкольной подготовки</option><option value="Преподаватель курсов">Преподаватель курсов</option><option value="Преподаватель немецкого языка">Преподаватель немецкого языка</option><option value="Преподаватель русского языка">Преподаватель русского языка</option><option value="Преподаватель химии">Преподаватель химии</option><option value="Пресс-секретарь">Пресс-секретарь</option><option value="Приемщик">Приемщик</option><option value="Приемщик химчистки">Приемщик химчистки</option><option value="Провизор">Провизор</option><option value="Программист">Программист</option><option value="Программист 1с">Программист 1с</option><option value="Программист 3D">Программист 3D</option><option value="Программист php">Программист php</option><option value="Программист битрикс">Программист битрикс</option><option value="Программист-стажер">Программист-стажер</option><option value="Продавец">Продавец</option><option value="Продавец автозапчастей">Продавец автозапчастей</option><option value="Продавец алкоголя">Продавец алкоголя</option><option value="Продавец в киоск">Продавец в киоск</option><option value="Продавец в тц">Продавец в тц</option><option value="Продавец гастронома">Продавец гастронома</option><option value="Продавец за прилавок">Продавец за прилавок</option><option value="Продавец мебели">Продавец мебели</option><option value="Продавец мороженого">Продавец мороженого</option><option value="Продавец обуви">Продавец обуви</option><option value="Продавец одежды">Продавец одежды</option><option value="Продавец продуктов">Продавец продуктов</option><option value="Продавец салона связи">Продавец салона связи</option><option value="Продавец торгового зала">Продавец торгового зала</option><option value="Продавец цифровой техники">Продавец цифровой техники</option><option value="Продавец-грузчик">Продавец-грузчик</option><option value="Продавец-кассир">Продавец-кассир</option><option value="Продавец-консультант">Продавец-консультант</option><option value="Проектировщик">Проектировщик</option><option value="Проектировщик электроснабжения">Проектировщик электроснабжения</option><option value="Промоутер">Промоутер</option><option value="Прораб">Прораб</option><option value="Прораб отделочных работ">Прораб отделочных работ</option><option value="Профессиональный повар">Профессиональный повар</option><option value="Процедурная медсестра">Процедурная медсестра</option><option value="Психолог">Психолог</option><option value="Птицевод">Птицевод</option><option value="Работа для студентов">Работа для студентов</option><option value="Работа за границей">Работа за границей</option><option value="Работа на дому">Работа на дому</option><option value="Работник">Работник</option><option value="Работник в кафе">Работник в кафе</option><option value="Работник вулканизации">Работник вулканизации</option><option value="Работник линии раздачи">Работник линии раздачи</option><option value="Работник склада">Работник склада</option><option value="Работник службы безопасности">Работник службы безопасности</option><option value="Работница">Работница</option><option value="Рабочий">Рабочий</option><option value="Рабочий на склад">Рабочий на склад</option><option value="Рабочий по обслуживанию зданий">Рабочий по обслуживанию зданий</option><option value="Рабочий типографии">Рабочий типографии</option><option value="Радио-ведущий">Радио-ведущий</option><option value="Радиооператор">Радиооператор</option><option value="Раздатчица">Раздатчица</option><option value="Разнорабочий">Разнорабочий</option><option value="Разнорабочий в кафе">Разнорабочий в кафе</option><option value="Разнорабочий в цех">Разнорабочий в цех</option><option value="Разнорабочий на производство">Разнорабочий на производство</option><option value="Разнорабочий на стройку">Разнорабочий на стройку</option><option value="Разработчик мобильных приложений">Разработчик мобильных приложений</option><option value="Расклейщик">Расклейщик</option><option value="Раскройщик">Раскройщик</option><option value="Распиловщик">Распиловщик</option><option value="Распространитель">Распространитель</option><option value="Реализатор">Реализатор</option><option value="Реаниматолог">Реаниматолог</option><option value="Ревизор">Ревизор</option><option value="Региональный менеджер">Региональный менеджер</option><option value="Регистратор">Регистратор</option><option value="Редактор">Редактор</option><option value="Резчик">Резчик</option><option value="Резчик стекла">Резчик стекла</option><option value="Рекламный агент">Рекламный агент</option><option value="Рекрутер">Рекрутер</option><option value="Рекрутер-фрилансер">Рекрутер-фрилансер</option><option value="Рентгенолаборант">Рентгенолаборант</option><option value="Репетитор">Репетитор</option><option value="Ресепшионист">Ресепшионист</option><option value="Реставратор">Реставратор</option><option value="Референт">Референт</option><option value="Риэлтор">Риелтор</option><option value="Риелтор">Риелтор</option><option value="Руководитель">Руководитель</option><option value="Руководитель проекта">Руководитель проекта</option><option value="Садовник">Садовник</option><option value="Салатница">Салатница</option><option value="Санитарка">Санитарка</option><option value="Санитарный врач">Санитарный врач</option><option value="Сантехник">Сантехник</option><option value="Сантехник-монтажник">Сантехник-монтажник</option><option value="Сантехник-универсал">Сантехник-универсал</option><option value="Сантехник-электрик">Сантехник-электрик</option><option value="Сборщик">Сборщик</option><option value="Сборщик бытовой техники">Сборщик бытовой техники</option><option value="Сборщик мебели">Сборщик мебели</option><option value="Сборщик пк">Сборщик пк</option><option value="Сварщик">Сварщик</option><option value="Сварщик на полуавтомат">Сварщик на полуавтомат</option><option value="Сварщик-аргонщик">Сварщик-аргонщик</option><option value="Сварщик-монтажник">Сварщик-монтажник</option><option value="Сварщик-сантехник">Сварщик-сантехник</option><option value="Сварщик-сборщик">Сварщик-сборщик</option><option value="Секретарь">Секретарь</option><option value="Секретарь на ресепшн">Секретарь на ресепшн</option><option value="Секретарь-делопроизводитель">Секретарь-делопроизводитель</option><option value="Секретарь-референт">Секретарь-референт</option><option value="Семейная пара">Семейная пара</option><option value="Семейный повар">Семейный повар</option><option value="Сервировщица">Сервировщица</option><option value="Сервисный инженер">Сервисный инженер</option><option value="Сервисный мастер">Сервисный мастер</option><option value="Сиделка">Сиделка</option><option value="Сиделка с проживанием">Сиделка с проживанием</option><option value="Системный администратор">Системный администратор</option><option value="Сканировщик">Сканировщик</option><option value="Скаут">Скаут</option><option value="Слесарь">Слесарь</option><option value="Слесарь кипиа">Слесарь кипиа</option><option value="Слесарь-механик">Слесарь-механик</option><option value="Слесарь-ремонтник">Слесарь-ремонтник</option><option value="Слесарь-сантехник">Слесарь-сантехник</option><option value="Слесарь-сборщик">Слесарь-сборщик</option><option value="Слесарь-электрик">Слесарь-электрик</option><option value="Сметчик">Сметчик</option><option value="Снабженец">Снабженец</option><option value="Снабженец-экспедитор">Снабженец-экспедитор</option><option value="Сортировщик">Сортировщик</option><option value="Сотрудник офиса">Сотрудник офиса</option><option value="Сотрудник по информациям">Сотрудник по информациям</option><option value="Сотрудник службы охраны">Сотрудник службы охраны</option><option value="Специалист">Специалист</option><option value="Специалист отдела документирования клиентских операций">Специалист отдела документирования клиентских операций</option><option value="Специалист отдела межбанковских операций">Специалист отдела межбанковских операций</option><option value="Специалист по валютным операциям">Специалист по валютным операциям</option><option value="Специалист по информационной безопасности">Специалист по информационной безопасности</option><option value="Специалист по кадрам">Специалист по кадрам</option><option value="Специалист по корпоративным продажам">Специалист по корпоративным продажам</option><option value="Специалист по кредитованию">Специалист по кредитованию</option><option value="Специалист по лизингу">Специалист по лизингу</option><option value="Специалист по налогообложению">Специалист по налогообложению</option><option value="Специалист по обслуживанию банкоматов">Специалист по обслуживанию банкоматов</option><option value="Специалист по отчетности">Специалист по отчетности</option><option value="Специалист по пластиковым картам">Специалист по пластиковым картам</option><option value="Специалист по пожарной безопасности">Специалист по пожарной безопасности</option><option value="Специалист по продаже финансовых услуг">Специалист по продаже финансовых услуг</option><option value="Специалист по работе с клиентами">Специалист по работе с клиентами</option><option value="Специалист по страхованию">Специалист по страхованию</option><option value="Специалист по тендерам">Специалист по тендерам</option><option value="Специалист по ценным бумагам">Специалист по ценным бумагам</option><option value="Специалист расчетно-кассового обслуживания">Специалист расчетно-кассового обслуживания</option><option value="Специалист учебно-методического отдела">Специалист учебно-методического отдела</option><option value="Специалист хозяйственно-технического отдела">Специалист хозяйственно-технического отдела</option><option value="Специалиста по связям с общественностью">Специалиста по связям с общественностью</option><option value="Стажёр">Стажёр</option><option value="Станочник">Станочник</option><option value="Старший кассир">Старший кассир</option><option value="Старший повар">Старший повар</option><option value="Старший продавец">Старший продавец</option><option value="Стационарный мерчендайзер">Стационарный мерчендайзер</option><option value="Стикеровщик">Стикеровщик</option><option value="Стилист">Стилист</option><option value="Столяр">Столяр</option><option value="Стоматолог">Стоматолог</option><option value="Стоматолог-имплантолог">Стоматолог-имплантолог</option><option value="Стоматолог-ортопед">Стоматолог-ортопед</option><option value="Стоматолог-терапевт">Стоматолог-терапевт</option><option value="Стоматолог-хирург">Стоматолог-хирург</option><option value="Сторож">Сторож</option><option value="Страховой агент">Страховой агент</option><option value="Строитель">Строитель</option><option value="Су-шеф">Су-шеф</option><option value="Судебный юрист">Судебный юрист</option><option value="Супервайзер">Супервайзер</option><option value="Сушист">Сушист</option><option value="Тайный покупатель">Тайный покупатель</option><option value="Танцовщик">Танцовщик</option><option value="Танцовщица">Танцовщица</option><option value="Терапевт">Терапевт</option><option value="Территориальный менеджер">Территориальный менеджер</option><option value="Тестомес">Тестомес</option><option value="Техник">Техник</option><option value="Техник по обслуживанию">Техник по обслуживанию</option><option value="Техник-программист">Техник-программист</option><option value="Техник-электрик">Техник-электрик</option><option value="Технический директор">Технический директор</option><option value="Технический специалист">Технический специалист</option><option value="Техничка">Техничка</option><option value="Технолог">Технолог</option><option value="Технолог пищевого производства">Технолог пищевого производства</option><option value="Ткач">Ткач</option><option value="Товаровед">Товаровед</option><option value="Токарь">Токарь</option><option value="Токарь-универсал">Токарь-универсал</option><option value="Тонировщик">Тонировщик</option><option value="Торговый агент">Торговый агент</option><option value="Торговый представитель">Торговый представитель</option><option value="Травматолог">Травматолог</option><option value="Тракторист">Тракторист</option><option value="Транспортный диспетчер">Транспортный диспетчер</option><option value="Тренд-хантер">Тренд-хантер</option><option value="Тренер">Тренер</option><option value="Тренер по плаванию">Тренер по плаванию</option><option value="Тренер по фитнесу">Тренер по фитнесу</option><option value="Тренер по шахматам">Тренер по шахматам</option><option value="Тренер-инструктор">Тренер-инструктор</option><option value="Турагент">Турагент</option><option value="Уборщик">Уборщик</option><option value="Уборщица">Уборщица</option><option value="Уборщица-посудомойщица">Уборщица-посудомойщица</option><option value="Удалённая работа">Удалённая работа</option><option value="Укладчик">Укладчик</option><option value="Упаковщик">Упаковщик</option><option value="Управляющий">Управляющий</option><option value="Уролог">Уролог</option><option value="Установщик">Установщик</option><option value="Участковый">Участковый</option><option value="Ученик для мастера">Ученик для мастера</option><option value="Ученик рекламного менеджера">Ученик рекламного менеджера</option><option value="Учетчик">Учетчик</option><option value="Учитель">Учитель</option><option value="Учитель английского языка">Учитель английского языка</option><option value="Учитель биологии">Учитель биологии</option><option value="Учитель информатики">Учитель информатики</option><option value="Учитель истории">Учитель истории</option><option value="Учитель китайского языка">Учитель китайского языка</option><option value="Учитель математики">Учитель математики</option><option value="Учитель начальных классов">Учитель начальных классов</option><option value="Учитель русского языка">Учитель русского языка</option><option value="Фармацевт">Фармацевт</option><option value="Фасовщик">Фасовщик</option><option value="Фельдшер">Фельдшер</option><option value="Фермер">Фермер</option><option value="Финансист">Финансист</option><option value="Финансовый аналитик">Финансовый аналитик</option><option value="Финансовый бухгалтер">Финансовый бухгалтер</option><option value="Финансовый директор">Финансовый директор</option><option value="Финансовый консультант">Финансовый консультант</option><option value="Флорист">Флорист</option><option value="Формовщик">Формовщик</option><option value="Фотограф">Фотограф</option><option value="Фотограф-администратор">Фотограф-администратор</option><option value="Фотограф-дизайнер">Фотограф-дизайнер</option><option value="Фотомодель">Фотомодель</option><option value="Фрезеровщик">Фрезеровщик</option><option value="Фрезеровщик чпу">Фрезеровщик чпу</option><option value="Фрилансер">Фрилансер</option><option value="Хаус-мастер">Хаус-мастер</option><option value="Химик">Химик</option><option value="Хирург">Хирург</option><option value="Хореограф">Хореограф</option><option value="Хостес">Хостес</option><option value="Художник">Художник</option><option value="Цветочница">Цветочница</option><option value="Шашлычник">Шашлычник</option><option value="Швея">Швея</option><option value="Швея по пошиву штор">Швея по пошиву штор</option><option value="Швея-конструктор">Швея-конструктор</option><option value="Швея-мотористка">Швея-мотористка</option><option value="Швея-универсал">Швея-универсал</option><option value="Шеф-кондитер">Шеф-кондитер</option><option value="Шеф-повар">Шеф-повар</option><option value="Шеф-повар в ресторан">Шеф-повар в ресторан</option><option value="Шеф-повар столовой">Шеф-повар столовой</option><option value="Шиномонтажник">Шиномонтажник</option><option value="Шлифовщик">Шлифовщик</option><option value="Шпаклевщик">Шпаклевщик</option><option value="Штукатур">Штукатур</option><option value="Эколог">Эколог</option><option value="Экономист">Экономист</option><option value="Экскурсовод">Экскурсовод</option><option value="Экспедитор">Экспедитор</option><option value="Электрик">Электрик</option><option value="Электрик выездной">Электрик выездной</option><option value="Электромеханик">Электромеханик</option><option value="Электромеханик лифтов">Электромеханик лифтов</option><option value="Электромонтажник">Электромонтажник</option><option value="Электромонтер">Электромонтер</option><option value="Электронщик">Электронщик</option><option value="Электросварщик">Электросварщик</option><option value="Эндокринолог">Эндокринолог</option><option value="Эстетист">Эстетист</option><option value="Юрисконсульт">Юрисконсульт</option><option value="Юрист">Юрист</option><option value="Юрист по банкротству">Юрист по банкротству</option><option value="Юрист-регистратор">Юрист-регистратор</option></select>
+                </div>
+
+
+                <div class="col-md-3 col-xs-8 padding-0">
+                    <select id="search_work_schedule" class="simple-10" name="sch"><option selected="selected" value="">График работы</option><option value="1">полный рабочий день</option><option value="2">сменный график</option><option value="3">свободный график</option><option value="4">частичная занятость</option><option value="5">совмещение</option><option value="6">ночной график</option><option value="7">удаленная работа</option><option value="8">временная работа</option><option value="9">вахта</option></select>
+                </div>
+
+                <div class="col-md-3 col-xs-4 padding-0">
+                    <select id="gorod" class="simple-10" name="gorod"><option selected="selected" value="">Город</option><option value="1">Душанбе</option><option value="2">Худжанд</option><option value="3">Абдурахмони Джоми</option><option value="4">Айни</option><option value="5">Ашт</option><option value="6">Бальджуван</option><option value="7">Бободжон Гаффуров</option><option value="8">Бохтар (Курган-Тюбе)</option><option value="9">Бустон (Чкаловск)</option><option value="10">Вандж</option><option value="11">Варзоб</option><option value="12">Вахдат</option><option value="13">Вахш</option><option value="14">Восе</option><option value="15">Гиссар</option><option value="16">Горная Матча</option><option value="17">Гулистон (Кайраккум)</option><option value="18">Дангара</option><option value="19">Дарваз</option><option value="20">Деваштич (Ганчи)</option><option value="21">Джаббор Расулов</option><option value="22">Джайхун (Кумсангир)</option><option value="23">Джалолиддина Балхи (Руми)</option><option value="24">Джами</option><option value="25">Дусти (Джиликуль)</option><option value="26">Зафарабад</option><option value="27">Истаравшан</option><option value="28">Истиклол</option><option value="29">Исфара</option><option value="30">Ишкашим</option><option value="31">Кабодиён</option><option value="32">Канибадам</option><option value="33">Куляб</option><option value="34">Кушониён (Бохтар)</option><option value="35">Лахш (Джиргиталь)</option><option value="36">Леваканд (Сарбанд)</option><option value="37">Матча</option><option value="38">Муминабад</option><option value="39">Мургаб</option><option value="40">Носири Хусрав</option><option value="41">Нурабад</option><option value="42">Нурек</option><option value="43">Пенджикент</option><option value="44">Пяндж</option><option value="45">Рашт</option><option value="46">Рогун</option><option value="47">Рошткала</option><option value="48">Рудаки</option><option value="49">Рушан</option><option value="50">Сангвор (Тавильдара)</option><option value="51">Спитамен</option><option value="52">Таджикабад</option><option value="53">Темурмалик</option><option value="54">Турсунзаде</option><option value="55">Файзабад</option><option value="56">Фархор</option><option value="57">Хамадани</option><option value="58">Ховалинг</option><option value="59">Хорог</option><option value="60">Хуросон</option><option value="61">Шамсиддин Шохин (Шуроабад)</option><option value="62">Шахринав</option><option value="63">Шахристон</option><option value="64">Шахритус</option><option value="65">Шугнан</option><option value="66">Яван</option></select>
+                </div>
+
+        </div>
+        <div class="col-md-3 col-xs-3 padding-0 mobile-search-height">
+            <button name="submit" type="submit" class="btn btn-md btn-search-icon bg-purple padding-10" style="height: 100%;">
+                <i class="ti-search"></i>
+                <br class="mobile-break">
+                Поиск            </button>
+        </div>
+    </div>
+</form>
+
+
+                    
+                        
+                            
+                                
+                                    
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                            
+                        
+                    
+                </div>
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+                <!-- Header Section End -->
+                
+                        
+                    
+                        
+                    
+                <!-- end intro section -->
+            </section>
+            </div>
+
+    
+        
+
+    <section class="find-job section margin-bottom-10" style="padding: 10px 0;">
+        <div class="container">
+            <form method="GET" action="https://korgar.tj/vakancii/nomer" accept-charset="UTF-8" class="form-ad">
+<div class="row">
+    <label class="col-sm-12 control-label font-lg" for="salary">Вакансия №</label>
+
+    <div class="col-xs-8">
+        <input class="form-control font-lg" name="nomer" type="text">
+    </div>
+    <div class="col-xs-4" style="padding: 5px 10px;">
+        <button type="submit" class="btn btn-common" style="padding: 12px 20px;">Поиск</button>
+    </div>
+</div>
+</form>
+        </div>
+    </section>
+
+    
+    
+    <section class="find-job section padding-top-20">
+        <div class="container">
+
+            
+            <h2 class="section-title">Последние добавления</h2>
+
+            <div class="row">
+                
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="row">
+
+
+
+
+
+
+                        <div class="col-sm-12 col-xs-12 padding-0">
+    <div class="manager-resumes-item" >
+        <div class="item-body" style="max-width: 600px; margin: 0 auto;">
+            <a href="https://korgar.tj/vakanciya/sozdat" class="btn btn-lg btn-yellow-100">
+                <span class="lg">Подайте объявление</span>
+                <br>
+                <span class="sm">получайте звонки и резюме соискателей</span>
+            </a>
+            
+            
+            
+        </div>
+    </div>
+</div>            
+    
+    <div id="products-container" data-page="1">
+        <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/kafelshik_154452'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/kafelshik_154452">Балонипоиздамкнак</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/kafelshik_154452">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/kafelshik_154452">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/kafelshik_154452">
+        <span><i class="ti-location-pin"></i> Канибадам, сегодня 22:18</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href=''">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/oficiantka_154451">началники свежий воздух</a></a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/oficiantka_154451">
+                                        <i class="ti-credit-card"></i> и шухияй
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/oficiantka_154451">
+        <i class="ti-time"></i> толко ночной
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/oficiantka_154451">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:18</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/marketolog_154449'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/marketolog_154449">Маркетолог</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/marketolog_154449">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/marketolog_154449">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/marketolog_154449">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/administrator_154450'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/administrator_154450">Администратор</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/administrator_154450">
+                                        <i class="ti-credit-card"></i> 3100 смн.
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/administrator_154450">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/administrator_154450">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/menedzher-po-prodazham_154445'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/menedzher-po-prodazham_154445">Менеджер по продажам</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/menedzher-po-prodazham_154445">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/menedzher-po-prodazham_154445">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/menedzher-po-prodazham_154445">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/uborshica_154446'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/uborshica_154446">Уборщица</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/uborshica_154446">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/uborshica_154446">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/uborshica_154446">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/povar_154447'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/povar_154447">Повар</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/povar_154447">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/povar_154447">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/povar_154447">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/povar_154448'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/povar_154448">Повар</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/povar_154448">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/povar_154448">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/povar_154448">
+        <span><i class="ti-location-pin"></i> Бустон (Чкаловск), сегодня 22:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/prodavec_154444'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/prodavec_154444">Продавец</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/prodavec_154444">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/prodavec_154444">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/prodavec_154444">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 21:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/upravlyayushii_154443'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/upravlyayushii_154443">Управляющий</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/upravlyayushii_154443">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/upravlyayushii_154443">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/upravlyayushii_154443">
+        <span><i class="ti-location-pin"></i> Бохтар (Курган-Тюбе), сегодня 21:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+            <div class="col-sm-12 col-xs-12">
+    <div class="manager-resumes-item padding-5">
+        <div class="item-body">
+            <a href="https://korgar.tj/app-promo"><h5 class="recommendation margin-bottom-5">Мобильное приложение KORGAR.TJ доступно в App Store и Google Play. Найти работу стало проще и удобнее!</h5></a>
+            <div class="row">
+                <div class="col-xs-6">
+                    <a href="https://korgar.tj/app-promo">
+                        <img style="max-width: 256px; width: 100%;" src="https://korgar.tj/img/app/app-store.png" alt="Установите мобильное приложение">
+                    </a>
+                </div>
+                <div class="col-xs-6">
+                    <a href="https://korgar.tj/app-promo">
+                        <img style="max-width: 256px; width: 100%;" src="https://korgar.tj/img/app/google-play.png" alt="Установите мобильное приложение">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/kassir_154442'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/kassir_154442">Кассир</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/kassir_154442">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/kassir_154442">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/kassir_154442">
+        <span><i class="ti-location-pin"></i> Гиссар, сегодня 21:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/tekhnik_154441'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/tekhnik_154441">Техник</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/tekhnik_154441">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/tekhnik_154441">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/tekhnik_154441">
+        <span><i class="ti-location-pin"></i> Худжанд, сегодня 20:27</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/prepodavatel_154439'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/prepodavatel_154439">Преподаватель</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/prepodavatel_154439">
+                                        <i class="ti-credit-card"></i> 4000 смн.
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/prepodavatel_154439">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/prepodavatel_154439">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 20:27</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/zagotovshik_154440'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/zagotovshik_154440">Заготовщик</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/zagotovshik_154440">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/zagotovshik_154440">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/zagotovshik_154440">
+        <span><i class="ti-location-pin"></i> Худжанд, сегодня 20:27</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/uborshica-posudomoishica_154437'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/uborshica-posudomoishica_154437">Уборщица-посудомойщица</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/uborshica-posudomoishica_154437">
+                                        <i class="ti-credit-card"></i> 2600 смн.
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/uborshica-posudomoishica_154437">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/uborshica-posudomoishica_154437">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 20:27</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/elektrik_154438'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/elektrik_154438">Электрик</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/elektrik_154438">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/elektrik_154438">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/elektrik_154438">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 20:27</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/povar-po-prigotovleniyu-plova_154436'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/povar-po-prigotovleniyu-plova_154436">Повар по приготовлению плова</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/povar-po-prigotovleniyu-plova_154436">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/povar-po-prigotovleniyu-plova_154436">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/povar-po-prigotovleniyu-plova_154436">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 19:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/prodavec_154435'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/prodavec_154435">Продавец</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/prodavec_154435">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/prodavec_154435">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/prodavec_154435">
+        <span><i class="ti-location-pin"></i> Худжанд, сегодня 19:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/rabochii_154434'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/rabochii_154434">Рабочий</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/rabochii_154434">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/rabochii_154434">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/rabochii_154434">
+        <span><i class="ti-location-pin"></i> Худжанд, сегодня 19:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    
+    <div class="col-sm-12 col-xs-12 padding-0">
+        <div class="manager-resumes-item" onclick="location.href='https://korgar.tj/vakanciya/moishik-posudy_154433'">
+            <div class="manager-content" style="border-bottom: 0">
+
+                
+                
+                
+                
+                
+
+                <div class="col-md-12 padding-0">
+                    <div class="col-xs-9 margin-bottom-10">
+                        <div class="manager-info">
+                            <div class="manager-name">
+                                <h4 class="margin-bottom-10">
+                                    <a href="https://korgar.tj/vakanciya/moishik-posudy_154433">Мойщик посуды</a>
+                                </h4>
+                                
+                                                                <h6 class="property-important">
+                                    <a href="https://korgar.tj/vakanciya/moishik-posudy_154433">
+                                        <i class="ti-credit-card"></i> Договорная
+                                    </a>
+                                </h6>
+                            </div>
+
+                            
+                            
+                            
+                            
+                        </div>
+                    </div>
+
+                                            <div class="col-xs-3 padding-0 text-right">
+                            <a href="https://korgar.tj/soiskatel/registraciya" class="bookmark_anchor icon-sm">
+                                <i class="bookmark glyphicon glyphicon-star-empty"></i>
+                            </a>
+                        </div>
+                                    </div>
+
+                <div class="col-xs-12">
+                    <div class="manager-info">
+                        <div class="manager-name">
+                            <h6 class="property-important margin-bottom-10">
+    <a href="https://korgar.tj/vakanciya/moishik-posudy_154433">
+        <i class="ti-time"></i> полный рабочий день
+    </a>
+</h6>
+
+
+
+<h6 class="property">
+    <a href="https://korgar.tj/vakanciya/moishik-posudy_154433">
+        <span><i class="ti-location-pin"></i> Душанбе, сегодня 18:09</span>
+    </a>
+</h6>
+
+
+
+                        </div>
+
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </div>
+</div>
+
+
+    <div class="row margin-top-10">
+        <div class="col-xs-12">
+            <ul class="pagination custom">
+                <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                <li class="page-item"><a class="page-link" href="https://korgar.tj/vakancii?page=2">2</a></li>
+                <li class="page-item"><a class="page-link" href="https://korgar.tj/vakancii?page=3">3</a></li>
+                <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+                <li class="page-item"><a class="page-link" href="https://korgar.tj/vakancii?page=40">40</a></li>
+            </ul>
+        </div>
+
+        <div class="clearfix"></div>
+
+
+
+
+                <div class="col-sm-12 padding-0">
+    <div class="manager-resumes-item text-center" style="border: 0;">
+        <div class="item-body" style="max-width: 600px; margin: 0 auto;">
+            <a href="https://korgar.tj/vakancii?page=2" class="btn btn-lg btn-yellow-100">
+                <span class="lg">Все вакансии</span>
+                <br>
+                <span class="sm">Найди подходящую вакансию</span>
+            </a>
+            
+            
+            
+        </div>
+    </div>
+</div>
+                <div class="col-sm-12 padding-0">
+    <div class="manager-resumes-item text-center" style="border: 0;">
+        <div class="item-body" style="max-width: 600px; margin: 0 auto;">
+            <a href="https://korgar.tj/vakancii/kategorii" class="btn btn-lg btn-yellow-100">
+                <span class="lg">Работа по рубрикам</span>
+
+
+            </a>
+            
+            
+            
+        </div>
+    </div>
+</div>
+
+
+
+                <div class="col-sm-12 padding-0">
+    <div class="manager-resumes-item" style="border: 0;">
+        <div class="item-body" style="max-width: 600px; margin: 0 auto">
+            <a href="https://korgar.tj/soiskatel/registraciya" class="btn btn-lg btn-green-100">
+                <span class="lg">Создайте резюме</span>
+                <br>
+                <span class="sm">Удвой шансы найти работу</span>
+            </a>
+            
+            
+            
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="col-xs-12 padding-0 margin-top-20">
+
+    <div class="accordion margin-bottom-20" id="accordionExample">
+        <div class="card">
+            <div class="card-header text-center" id="headingTwo" style="background-color: #def5ff">
+                <a class="btn btn-link collapsed additional-info step-by-step-btn" href="https://korgar.tj/soiskatel/instrukciya">
+                    <span class="text-center color-primary step-by-step-title">Как найти работу?</span><br>
+                    <span class="text-center color-primary step-by-step-title-sm">Чӣ тавр кор ёфтан мумкин аст?</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+
+
+
+
+                </div>
+            </div>
+
+
+
+        </div>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+    <section class="clients section">
+    <div class="container">
+        <h2 class="section-title">
+            Работодатели        </h2>
+        <div class="row">
+            <div id="clients-scroller">
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/270">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/270?type=thumb" alt="Olucha Consulting   Group">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/15763">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/15763?type=thumb" alt="OOO &quot;ГЕЛОС&quot;">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/16629">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/16629?type=thumb" alt="BalX">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/16922">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/16922?type=thumb" alt="Лаборатория &quot;Гемотест&quot;">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/18159">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/18159?type=thumb" alt="BISOT">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/18358">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/18358?type=thumb" alt="Элит Дент">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/5960">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/5960?type=thumb" alt="Skyeng">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/14516">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/14516?type=thumb" alt="ОАО Алиф Банк">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/14766">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/14766?type=thumb" alt="China_with_me">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/13403">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/13403?type=thumb" alt="ООО &quot;Исател&quot;">
+                        </a>
+                    </div>
+                                    <div class="items">
+                        <a href="https://korgar.tj/rabotodatel/11689">
+                            <img style="max-height: 95px;" src="https://korgar.tj/department-api/picture/11689?type=thumb" alt="EYFEL - АТРИЁТ">
+                        </a>
+                    </div>
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</section>
+        
+
+    
+    
+    
+
+
+            <section class="find-job section" style="padding: 10px 0 20px 0;">
+    <div class="container">
+        <div class="row">
+            <h3 class="text-center padding-10">Подпишись и получай уведомления о новых вакансиях в социальных сетях</h3>
+            <div class="col-sm-4 col-sm-offset-1 col-xs-6 padding-20 margin-bottom-10">
+                <a target="_blank" href="https://www.facebook.com/tj.korgar/">
+                    <img style="max-width: 500px; width: 100%;" src="https://korgar.tj/img/social/facebook500.jpg" alt="Подпишись на нас в Facebook">
+                </a>
+            </div>
+            <div class="col-sm-4 col-sm-offset-2 col-xs-6 padding-20 margin-bottom-10">
+                <a target="_blank" href="https://www.instagram.com/korgar.tj/">
+                    <img style="max-width: 500px; width: 100%;" src="https://korgar.tj/img/social/instagram500.jpg" alt="Подпишись на нас в Instagram">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+        <footer>
+    <!-- Copyright Start  -->
+    <div id="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="site-info">
+                        <p>&copy;2020. Все права защищены.
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright End -->
+</footer>    
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top">
+        <i class="ti-arrow-up"></i>
+    </a>
+</body>
+
+<script type="text/javascript" src="https://korgar.tj/js/jquery-min.js"></script>
+<script type="text/javascript" src="https://korgar.tj/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://korgar.tj/js/owl.carousel.min.js"></script>
+
+
+<script type="text/javascript" src="https://korgar.tj/js/main.min.js"></script>
+<script type="text/javascript" src="https://korgar.tj/js/jquery.counterup.min.js"></script>
+<script type="text/javascript" src="https://korgar.tj/js/waypoints.min.js"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="https://korgar.tj/js/selectize.min.js?3"></script>
+
+<script type="text/javascript">
+    var baseUrl = "https://korgar.tj";
+
+    $('#pos').selectize();
+    $('#pos-resume').selectize();
+
+    // $('#cat').selectize({
+    //     allowEmptyOption: true,
+    //     create: false
+    // });
+
+    // $('#gorod').selectize({
+    //     allowEmptyOption: true,
+    //     create: false
+    // });
+
+    // $('#search_work_schedule').selectize({
+    //     persist: false,
+    //     createOnBlur: true,
+    //     create: false
+    // });
+
+    $('#myDropdown .dropdown-menu').on({
+        "click":function(e){
+            e.stopPropagation();
+        }
+    });
+
+</script>
+
+    <script type="text/javascript" src="https://korgar.tj/js/others.js?4"></script>
+
+</html>
