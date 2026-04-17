@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TAJRENT - Rental Marketplace</title>
   <style>
-    :root{--bg:#f3f6fb;--card:#fff;--line:#dce5f4;--text:#10233f;--muted:#5e6f8a;--brand:#1f64ff}
+    :root{--bg:#f5f7ff;--card:#fff;--line:#dce5f4;--text:#10233f;--muted:#5e6f8a;--brand:#1f64ff;--brand-2:#7b5dff;--ok:#15b97a}
     *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--text)}
-    .top{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--line);padding:10px 14px;display:flex;gap:10px;justify-content:space-between;z-index:5}
+    .top{position:sticky;top:0;background:linear-gradient(90deg,#ffffff,#f4f8ff);border-bottom:1px solid var(--line);padding:10px 14px;display:flex;gap:10px;justify-content:space-between;z-index:5}
     .brand{font-weight:800}.tag{font-size:12px;background:#eaf0ff;color:var(--brand);padding:2px 8px;border-radius:999px}
     .row{display:grid;gap:12px;max-width:1280px;margin:12px auto;padding:0 12px;grid-template-columns:280px 1fr}
-    .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;box-shadow:0 8px 24px rgba(16,35,63,.05)}
     .btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;cursor:pointer;font-weight:600}
-    .btn.primary,.role.active{background:var(--brand);color:#fff;border-color:var(--brand)}
+    .btn.primary,.role.active{background:linear-gradient(135deg,var(--brand),var(--brand-2));color:#fff;border-color:transparent}
     .roles{display:flex;gap:6px;flex-wrap:wrap}.role{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 9px;cursor:pointer}
     .g{display:grid;gap:8px}.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
     input,select,textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:7px;margin-top:3px}
@@ -26,6 +26,15 @@
     .k{border:1px solid var(--line);border-radius:10px;padding:8px;background:#fbfdff}
     .v{font-size:20px;font-weight:800}.thumbs{display:grid;gap:5px}
     .media{display:grid;gap:8px;grid-template-columns:1fr 110px}.media img,.media video{width:100%;max-height:260px;object-fit:cover;border-radius:8px;border:1px solid var(--line)}
+    .hero{max-width:1280px;margin:12px auto 0;padding:0 12px}
+    .heroBox{border-radius:14px;background:linear-gradient(135deg,#1f64ff,#7b5dff);color:#fff;padding:14px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+    .heroIcons{display:flex;gap:10px;flex-wrap:wrap}
+    .animIcon{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:10px;background:rgba(255,255,255,.2);font-size:18px;animation:float 2s ease-in-out infinite}
+    .animIcon:nth-child(2){animation-delay:.2s}.animIcon:nth-child(3){animation-delay:.4s}.animIcon:nth-child(4){animation-delay:.6s}
+    .supportRow{display:flex;gap:8px;align-items:flex-end}
+    .supportRow textarea{margin-top:0;min-height:60px}
+    .status{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;background:#eafaf3;color:#0b8e5b}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
     @media (max-width:1024px){.row{grid-template-columns:1fr}.split{grid-template-columns:1fr}}
   </style>
 </head>
@@ -39,6 +48,21 @@
     <button class="role" data-role="admin">Admin</button>
   </nav>
 </header>
+
+<section class="hero">
+  <div class="heroBox">
+    <div>
+      <strong>New UX update</strong>
+      <div style="font-size:13px;opacity:.95">Быстрые чаты, улучшенный дизайн и анимированные иконки уже в демо.</div>
+    </div>
+    <div class="heroIcons" aria-label="animated icons">
+      <span class="animIcon">🛍️</span>
+      <span class="animIcon">💬</span>
+      <span class="animIcon">🚚</span>
+      <span class="animIcon">⭐</span>
+    </div>
+  </div>
+</section>
 
 <main class="row">
   <aside class="card" id="filters">
@@ -117,6 +141,22 @@
         </div>
       </div>
     </section>
+
+    <section class="card" id="supportPane">
+      <h3 style="margin:0 0 8px">Связаться с нами <span class="status">online</span></h3>
+      <div id="supportChat"></div>
+      <div class="actions">
+        <button class="btn supportQuick" data-text="Здравствуйте! Хочу узнать, как работает возврат депозита.">Депозит</button>
+        <button class="btn supportQuick" data-text="Здравствуйте! Нужна помощь по отмене бронирования.">Отмена</button>
+        <button class="btn supportQuick" data-text="Здравствуйте! Есть вопрос по верификации аккаунта.">Верификация</button>
+      </div>
+      <div class="supportRow">
+        <label style="flex:1">Сообщение
+          <textarea id="supportInput" placeholder="Напишите ваш вопрос..."></textarea>
+        </label>
+        <button class="btn primary" id="supportSend">Отправить</button>
+      </div>
+    </section>
   </section>
 </main>
 
@@ -145,6 +185,7 @@
     likes:{items:new Set([1]),owners:new Set([2])},follows:{owners:new Set([2]),categories:new Set(['tools'])},
     notifications:[{type:'booking',text:'Booking #5002 confirmed',ts:'10m ago'},{type:'message',text:'Owner sent inspection video',ts:'22m ago'},{type:'follower',text:'2 new owners in followed category',ts:'1h ago'}],
     chat:[{from:'Owner',text:'Hello! Item is available and moderated.'},{from:'Customer',text:'Can I rent from 18th morning?'},{from:'Owner',text:'Yes, submit booking request.'}],
+    supportChat:[{from:'Support',text:'Здравствуйте! Мы на связи. Чем можем помочь?'},{from:'Customer',text:'Хочу узнать, как посмотреть статус моего бронирования.'},{from:'Support',text:'Откройте профиль и блок Rental history — там отображается текущий статус.'}],
     complaints:[{id:91,subject:'Late return dispute',status:'Open',severity:'Medium'},{id:92,subject:'Photo mismatch report',status:'In Review',severity:'High'}],
     monetization:{commission:8,promoted:15,ownerSub:29,premium:49,insurance:3}
   };
@@ -189,6 +230,9 @@
     $('chat').innerHTML=state.chat.map(m=>`<p class="muted"><b>${m.from}:</b> ${m.text}</p>`).join('')+`<p class="muted">Spam protection: repeated text throttle + unsafe-link checks enabled.</p>`;
     $('notifications').innerHTML=`<h4 style="margin:0 0 8px">Notifications</h4>`+state.notifications.map(n=>`<div class="k" style="margin-bottom:8px"><div><b>${n.type.toUpperCase()}</b></div><div class="muted">${n.text}</div><div class="muted">${n.ts}</div></div>`).join('');
   }
+  function renderSupport(){
+    $('supportChat').innerHTML=state.supportChat.map(m=>`<p class="muted"><b>${m.from}:</b> ${m.text}</p>`).join('');
+  }
   window.selectItem=id=>{state.selectedItem=id;state.selectedMedia=0;renderDetail();};
   window.selectMedia=i=>{state.selectedMedia=i;renderDetail();};
   window.toggleItemLike=id=>{const it=state.items.find(i=>i.id===id);if(!it)return;if(state.likes.items.has(id)){state.likes.items.delete(id);it.likes--;}else{state.likes.items.add(id);it.likes++;}filterItems();};
@@ -197,13 +241,17 @@
   window.followOwner=id=>{state.follows.owners.add(id);state.notifications.unshift({type:'follow',text:'You followed this owner',ts:'now'});renderChat();};
   window.followCategory=c=>{state.follows.categories.add(c);state.notifications.unshift({type:'follow',text:`Subscribed to category: ${c}`,ts:'now'});renderChat();};
   window.sendMessage=id=>{state.chat.push({from:'Customer',text:`Hi ${state.users.find(u=>u.id===id)?.name||''}, need delivery details.`});renderChat();};
+  window.sendSupportMessage=()=>{const input=$('supportInput');const text=(input?.value||'').trim();if(!text)return;state.supportChat.push({from:'Customer',text});state.supportChat.push({from:'Support',text:'Спасибо! Мы получили сообщение и скоро ответим.'});state.notifications.unshift({type:'support',text:'Новое сообщение отправлено в поддержку',ts:'now'});if(input)input.value='';renderSupport();renderChat();};
   window.viewProfile=id=>{state.selectedProfile=id;renderProfile();window.scrollTo({top:$('profilePane').offsetTop-60,behavior:'smooth'});};
   window.submitBooking=(e,itemId)=>{e.preventDefault();const d=new FormData(e.target),start=d.get('start'),end=d.get('end'),rentalType=d.get('rentalType'),msg=d.get('message'),err=$('bookingError');if(!start||!end||new Date(end)<new Date(start)){if(err)err.textContent='Please select valid start and end dates. End date must be after start date.';return;}if(err)err.textContent='';const item=state.items.find(i=>i.id===itemId),b={id:Date.now()+Math.floor(Math.random()*1000),itemId,customerId:1,ownerId:item.ownerId,start,end,rentalType,status:'requested',lateFee:10,deposit:'held'};state.bookings.unshift(b);state.chat.push({from:'Customer',text:msg||'Booking request sent.'});state.notifications.unshift({type:'booking',text:`Booking #${b.id} requested`,ts:'now'});renderOwner();renderProfile();renderChat();e.target.reset();};
   window.setBooking=(id,status)=>{const b=state.bookings.find(x=>x.id===id);if(!b)return;b.status=status;state.notifications.unshift({type:'booking',text:`Booking #${id} status: ${status}`,ts:'now'});renderOwner();renderProfile();renderChat();};
   document.querySelectorAll('.role').forEach(b=>b.onclick=()=>{state.role=b.dataset.role;document.querySelectorAll('.role').forEach(x=>x.classList.toggle('active',x===b));$('ownerPane').classList.toggle('hidden',!(state.role==='owner'||state.role==='admin'));$('adminPane').classList.toggle('hidden',state.role!=='admin');$('filters').classList.toggle('hidden',state.role==='admin');$('customerPane').classList.toggle('hidden',state.role==='admin');$('detailPane').classList.toggle('hidden',state.role==='admin');$('chatPane').classList.toggle('hidden',state.role==='guest');});
   document.querySelectorAll('.quick').forEach(b=>b.onclick=()=>{state.chat.push({from:'System',text:b.dataset.text});renderChat();});
+  document.querySelectorAll('.supportQuick').forEach(b=>b.onclick=()=>{state.supportChat.push({from:'Customer',text:b.dataset.text});state.supportChat.push({from:'Support',text:'Приняли запрос. Сейчас проверим и вернемся с ответом.'});renderSupport();});
+  $('supportSend').onclick=()=>window.sendSupportMessage();
+  $('supportInput').addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key==='Enter')window.sendSupportMessage();});
   $('apply').onclick=filterItems;$('reset').onclick=()=>{document.querySelectorAll('#filters input,#filters select').forEach(el=>el.value='');filterItems();};
-  initFilters();renderItems(state.items);renderDetail();renderProfile();renderOwner();renderAdmin();renderChat();filterItems();
+  initFilters();renderItems(state.items);renderDetail();renderProfile();renderOwner();renderAdmin();renderChat();renderSupport();filterItems();
 </script>
 </body>
 </html>
