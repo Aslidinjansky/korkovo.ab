@@ -53,7 +53,7 @@
   <div class="heroBox">
     <div>
       <strong>New UX update</strong>
-      <div style="font-size:13px;opacity:.95">Быстрые чаты, улучшенный дизайн и анимированные иконки уже в демо.</div>
+      <div style="font-size:13px;opacity:.95">Fast chats, improved design, and animated icons are already in the demo.</div>
     </div>
     <div class="heroIcons" aria-label="animated icons">
       <span class="animIcon">🛍️</span>
@@ -143,18 +143,18 @@
     </section>
 
     <section class="card" id="supportPane">
-      <h3 style="margin:0 0 8px">Связаться с нами <span class="status">online</span></h3>
+      <h3 style="margin:0 0 8px">Contact Us <span class="status">online</span></h3>
       <div id="supportChat"></div>
       <div class="actions">
-        <button class="btn supportQuick" data-text="Здравствуйте! Хочу узнать, как работает возврат депозита.">Депозит</button>
-        <button class="btn supportQuick" data-text="Здравствуйте! Нужна помощь по отмене бронирования.">Отмена</button>
-        <button class="btn supportQuick" data-text="Здравствуйте! Есть вопрос по верификации аккаунта.">Верификация</button>
+        <button class="btn supportQuick" data-text="Hello! I want to know how deposit refund works.">Deposit</button>
+        <button class="btn supportQuick" data-text="Hello! I need help with booking cancellation.">Cancellation</button>
+        <button class="btn supportQuick" data-text="Hello! I have a question about account verification.">Verification</button>
       </div>
       <div class="supportRow">
-        <label style="flex:1">Сообщение
-          <textarea id="supportInput" placeholder="Напишите ваш вопрос..."></textarea>
+        <label style="flex:1">Message
+          <textarea id="supportInput" placeholder="Write your question..."></textarea>
         </label>
-        <button class="btn primary" id="supportSend">Отправить</button>
+        <button class="btn primary" id="supportSend">Send</button>
       </div>
     </section>
   </section>
@@ -185,7 +185,7 @@
     likes:{items:new Set([1]),owners:new Set([2])},follows:{owners:new Set([2]),categories:new Set(['tools'])},
     notifications:[{type:'booking',text:'Booking #5002 confirmed',ts:'10m ago'},{type:'message',text:'Owner sent inspection video',ts:'22m ago'},{type:'follower',text:'2 new owners in followed category',ts:'1h ago'}],
     chat:[{from:'Owner',text:'Hello! Item is available and moderated.'},{from:'Customer',text:'Can I rent from 18th morning?'},{from:'Owner',text:'Yes, submit booking request.'}],
-    supportChat:[{from:'Support',text:'Здравствуйте! Мы на связи. Чем можем помочь?'},{from:'Customer',text:'Хочу узнать, как посмотреть статус моего бронирования.'},{from:'Support',text:'Откройте профиль и блок Rental history — там отображается текущий статус.'}],
+    supportChat:[{from:'Support',text:'Hello! We are online. How can we help you?'},{from:'Customer',text:'I want to know how to check my booking status.'},{from:'Support',text:'Open your profile and the Rental history block — current statuses are shown there.'}],
     complaints:[{id:91,subject:'Late return dispute',status:'Open',severity:'Medium'},{id:92,subject:'Photo mismatch report',status:'In Review',severity:'High'}],
     monetization:{commission:8,promoted:15,ownerSub:29,premium:49,insurance:3}
   };
@@ -241,13 +241,13 @@
   window.followOwner=id=>{state.follows.owners.add(id);state.notifications.unshift({type:'follow',text:'You followed this owner',ts:'now'});renderChat();};
   window.followCategory=c=>{state.follows.categories.add(c);state.notifications.unshift({type:'follow',text:`Subscribed to category: ${c}`,ts:'now'});renderChat();};
   window.sendMessage=id=>{state.chat.push({from:'Customer',text:`Hi ${state.users.find(u=>u.id===id)?.name||''}, need delivery details.`});renderChat();};
-  window.sendSupportMessage=()=>{const input=$('supportInput');const text=(input?.value||'').trim();if(!text)return;state.supportChat.push({from:'Customer',text});state.supportChat.push({from:'Support',text:'Спасибо! Мы получили сообщение и скоро ответим.'});state.notifications.unshift({type:'support',text:'Новое сообщение отправлено в поддержку',ts:'now'});if(input)input.value='';renderSupport();renderChat();};
+  window.sendSupportMessage=()=>{const input=$('supportInput');const text=(input?.value||'').trim();if(!text)return;state.supportChat.push({from:'Customer',text});state.supportChat.push({from:'Support',text:'Thanks! We received your message and will reply soon.'});state.notifications.unshift({type:'support',text:'New message sent to support',ts:'now'});if(input)input.value='';renderSupport();renderChat();};
   window.viewProfile=id=>{state.selectedProfile=id;renderProfile();window.scrollTo({top:$('profilePane').offsetTop-60,behavior:'smooth'});};
   window.submitBooking=(e,itemId)=>{e.preventDefault();const d=new FormData(e.target),start=d.get('start'),end=d.get('end'),rentalType=d.get('rentalType'),msg=d.get('message'),err=$('bookingError');if(!start||!end||new Date(end)<new Date(start)){if(err)err.textContent='Please select valid start and end dates. End date must be after start date.';return;}if(err)err.textContent='';const item=state.items.find(i=>i.id===itemId),b={id:Date.now()+Math.floor(Math.random()*1000),itemId,customerId:1,ownerId:item.ownerId,start,end,rentalType,status:'requested',lateFee:10,deposit:'held'};state.bookings.unshift(b);state.chat.push({from:'Customer',text:msg||'Booking request sent.'});state.notifications.unshift({type:'booking',text:`Booking #${b.id} requested`,ts:'now'});renderOwner();renderProfile();renderChat();e.target.reset();};
   window.setBooking=(id,status)=>{const b=state.bookings.find(x=>x.id===id);if(!b)return;b.status=status;state.notifications.unshift({type:'booking',text:`Booking #${id} status: ${status}`,ts:'now'});renderOwner();renderProfile();renderChat();};
   document.querySelectorAll('.role').forEach(b=>b.onclick=()=>{state.role=b.dataset.role;document.querySelectorAll('.role').forEach(x=>x.classList.toggle('active',x===b));$('ownerPane').classList.toggle('hidden',!(state.role==='owner'||state.role==='admin'));$('adminPane').classList.toggle('hidden',state.role!=='admin');$('filters').classList.toggle('hidden',state.role==='admin');$('customerPane').classList.toggle('hidden',state.role==='admin');$('detailPane').classList.toggle('hidden',state.role==='admin');$('chatPane').classList.toggle('hidden',state.role==='guest');});
   document.querySelectorAll('.quick').forEach(b=>b.onclick=()=>{state.chat.push({from:'System',text:b.dataset.text});renderChat();});
-  document.querySelectorAll('.supportQuick').forEach(b=>b.onclick=()=>{state.supportChat.push({from:'Customer',text:b.dataset.text});state.supportChat.push({from:'Support',text:'Приняли запрос. Сейчас проверим и вернемся с ответом.'});renderSupport();});
+  document.querySelectorAll('.supportQuick').forEach(b=>b.onclick=()=>{state.supportChat.push({from:'Customer',text:b.dataset.text});state.supportChat.push({from:'Support',text:'Request accepted. We are checking and will respond shortly.'});renderSupport();});
   $('supportSend').onclick=()=>window.sendSupportMessage();
   $('supportInput').addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key==='Enter')window.sendSupportMessage();});
   $('apply').onclick=filterItems;$('reset').onclick=()=>{document.querySelectorAll('#filters input,#filters select').forEach(el=>el.value='');filterItems();};
