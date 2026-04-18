@@ -30,3 +30,19 @@ http://127.0.0.1:4173/
 ```
 
 If you get 404, you started the server in the wrong folder.
+
+## Public link via GitHub Pages
+
+After enabling **Settings → Pages → Source: GitHub Actions**, this repository will publish automatically on each push (including this branch).
+
+Public URL format:
+
+```text
+https://aslidinjansky.github.io/korkovo.ab/
+```
+
+## Custom domain (optional)
+
+1. Add your domain in **Settings → Pages → Custom domain**.
+2. Point DNS to GitHub Pages records (A/AAAA or CNAME per GitHub docs).
+3. Enable **Enforce HTTPS** after DNS propagation.
