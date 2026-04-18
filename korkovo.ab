@@ -34,6 +34,20 @@
     .supportRow{display:flex;gap:8px;align-items:flex-end}
     .supportRow textarea{margin-top:0;min-height:60px}
     .status{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;background:#eafaf3;color:#0b8e5b}
+    .mobileOnly{display:block}
+    .marketTop{position:sticky;top:60px;z-index:6}
+    .stickySearch{display:flex;gap:8px;align-items:center}
+    .stickySearch input{margin-top:0}
+    .promoStrip{display:grid;gap:8px;grid-template-columns:repeat(2,minmax(0,1fr));margin-top:8px}
+    .promoCard{border:1px solid var(--line);background:linear-gradient(135deg,#eff4ff,#ffffff);border-radius:10px;padding:8px}
+    .promoCard b{display:block;font-size:13px}
+    .promoCard .muted{font-size:12px}
+    .catRow{display:flex;gap:8px;overflow:auto;padding-bottom:2px;margin-top:8px}
+    .catIcon{border:1px solid var(--line);background:#fff;border-radius:10px;padding:7px 9px;display:flex;align-items:center;gap:6px;white-space:nowrap;font-size:12px;font-weight:700;color:#334f7f;cursor:pointer}
+    .catIcon.active{background:linear-gradient(135deg,var(--brand),var(--brand-2));color:#fff;border-color:transparent}
+    .catIcon .i{font-size:16px}
+    .tapLike{animation:likePop .45s ease}
+    .tapFav{animation:favPop .5s ease}
     .mobileNav{position:fixed;left:10px;right:10px;bottom:10px;border:1px solid var(--line);background:#fff;border-radius:14px;padding:6px;display:grid;grid-template-columns:repeat(4,1fr);gap:6px;z-index:20;box-shadow:0 10px 30px rgba(16,35,63,.15)}
     .mTab{border:1px solid transparent;background:#f5f7ff;border-radius:10px;padding:8px 6px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;cursor:pointer;font-size:11px;color:#52637f;font-weight:700}
     .mTab .icon{font-size:17px;animation:pulse 1.8s ease-in-out infinite}
@@ -41,9 +55,11 @@
     .mTab.active .icon{animation:bounce 1s ease-in-out infinite}
     @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
     @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+    @keyframes likePop{0%{transform:scale(1)}50%{transform:scale(1.18)}100%{transform:scale(1)}}
+    @keyframes favPop{0%{transform:scale(1) rotate(0)}35%{transform:scale(1.12) rotate(-8deg)}70%{transform:scale(1.1) rotate(8deg)}100%{transform:scale(1) rotate(0)}}
     @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
     @media (min-width:768px){.g2{grid-template-columns:repeat(2,minmax(0,1fr))}.items{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}}
-    @media (min-width:1024px){body{padding-bottom:0}.row{max-width:1280px;grid-template-columns:280px 1fr}.split{grid-template-columns:1.2fr .8fr}.mobileNav{display:none}}
+    @media (min-width:1024px){body{padding-bottom:0}.row{max-width:1280px;grid-template-columns:280px 1fr}.split{grid-template-columns:1.2fr .8fr}.mobileNav{display:none}.mobileOnly{display:none!important}}
   </style>
 </head>
 <body>
@@ -108,6 +124,15 @@
   </aside>
 
   <section class="g" id="mainContent">
+    <section class="card mobileOnly marketTop" id="marketTopPane">
+      <div class="stickySearch">
+        <input id="mobileQ" placeholder="Search products, brands, owners">
+        <button class="btn primary" id="mobileSearchBtn">Search</button>
+      </div>
+      <div id="mobileCategories" class="catRow"></div>
+      <div id="promoStrip" class="promoStrip"></div>
+    </section>
+
     <section class="card" id="customerPane">
       <h3 style="margin:0 0 8px">TAJRENT Customer</h3>
       <div id="items" class="items"></div>
@@ -185,6 +210,12 @@
       {id:'sports',sub:['Cycling','Camping','Fitness']},
       {id:'electronics',sub:['Cameras','Computers','Projectors']}
     ],
+    promos:[
+      {title:'Flash deal',text:'Up to -40% for weekend rentals'},
+      {title:'Free delivery',text:'Selected verified owners only'},
+      {title:'Top rated picks',text:'4.8+ rating curated list'},
+      {title:'New arrivals',text:'Fresh tools and event gear'}
+    ],
     tags:['urgent-rental','verified-owner','delivery-available','top-rated','insured','business-plan'],
     users:[
       {id:1,role:'customer',name:'Nasim Rahmon',city:'Dushanbe',bio:'Weekend DIY renter.',rating:4.8,rentalCount:43,reviewCount:31,verified:true,followers:15,following:9,twoFa:true},
@@ -221,9 +252,23 @@
       return (!f.q||searchText.includes(f.q))&&(!f.category||i.category===f.category)&&(!f.subcategory||i.subcategory===f.subcategory)&&(!f.tag||i.tags.includes(f.tag))&&(!f.city||i.city===f.city)&&(!f.district||i.district===f.district)&&(!f.rentalType||i.rentalType===f.rentalType)&&(!f.condition||i.condition===f.condition)&&(!f.delivery||i.delivery===f.delivery)&&(!f.date||i.availability.includes(f.date))&&(!f.price||i.pricing.daily<=f.price)&&(!f.distance||i.distance<=f.distance)&&(!f.rating||i.rating>=f.rating)&&(!f.deposit||i.pricing.deposit<=f.deposit);
     });
     const s={'price-asc':(a,b)=>a.pricing.daily-b.pricing.daily,'price-desc':(a,b)=>b.pricing.daily-a.pricing.daily,'rating-desc':(a,b)=>b.rating-a.rating,'distance-asc':(a,b)=>a.distance-b.distance,'popularity-desc':(a,b)=>b.popularity-a.popularity};if(s[f.sort])x.sort(s[f.sort]);
-    renderItems(x);$('count').textContent=`${x.length} items found`;if(x.length&&!x.some(i=>i.id===state.selectedItem))state.selectedItem=x[0].id;renderDetail();
+    renderItems(x);$('count').textContent=`${x.length} items found`;if(x.length&&!x.some(i=>i.id===state.selectedItem))state.selectedItem=x[0].id;renderDetail();renderMobileCategories();
   }
-  function renderItems(items){$('items').innerHTML=items.map(i=>`<article class="item"><img src="${i.media.find(m=>m.type==='image')?.url||''}" alt="${i.name}"><div class="p"><strong>${i.name}</strong><div class="muted">${i.city}, ${i.district} • ${i.distance} km • ${i.condition}</div><div class="muted">$${i.pricing.hourly}/h • $${i.pricing.daily}/d • deposit $${i.pricing.deposit}</div><div class="chips">${i.tags.map(t=>`<span class="chip">${t}</span>`).join('')}</div><div class="chips" style="margin-top:6px"><span class="chip">⭐ ${i.rating}</span><span class="chip">❤ ${i.likes}</span><span class="chip">👁 ${i.views}</span><span class="chip">${owner(i)?.name||''}</span></div><div class="actions"><button class="btn primary" onclick="selectItem(${i.id})">View</button><button class="btn" onclick="toggleItemLike(${i.id})">${state.likes.items.has(i.id)?'Unlike':'Like'}</button><button class="btn" onclick="addFavorite(${i.id})">Favorite</button></div></div></article>`).join('');}
+  function renderItems(items){$('items').innerHTML=items.map(i=>`<article class="item" data-item="${i.id}"><img src="${i.media.find(m=>m.type==='image')?.url||''}" alt="${i.name}"><div class="p"><strong>${i.name}</strong><div class="muted">${i.city}, ${i.district} • ${i.distance} km • ${i.condition}</div><div class="muted">$${i.pricing.hourly}/h • $${i.pricing.daily}/d • deposit $${i.pricing.deposit}</div><div class="chips">${i.tags.map(t=>`<span class="chip">${t}</span>`).join('')}</div><div class="chips" style="margin-top:6px"><span class="chip">⭐ ${i.rating}</span><span class="chip">❤ ${i.likes}</span><span class="chip">👁 ${i.views}</span><span class="chip">${owner(i)?.name||''}</span></div><div class="actions"><button class="btn primary" onclick="selectItem(${i.id})">View</button><button class="btn" onclick="toggleItemLike(${i.id},event)">${state.likes.items.has(i.id)?'💙 Liked':'🤍 Like'}</button><button class="btn" onclick="addFavorite(${i.id},event)">✨ Favorite</button></div></div></article>`).join('');}
+  function renderMobileCategories(){
+    const icon={all:'🔥',tools:'🛠️',events:'🎉',baby:'🍼',sports:'🏕️',electronics:'📷'};
+    const selected=$('fCategory').value||'all';
+    const arr=[{id:'',name:'All'}].concat(state.categories.map(c=>({id:c.id,name:c.id})));
+    $('mobileCategories').innerHTML=arr.map(c=>`<button class="catIcon ${selected===(c.id||'all')?'active':''}" onclick="quickCategory('${c.id}')"><span class="i">${icon[c.id||'all']||'🏷️'}</span><span>${c.name}</span></button>`).join('');
+  }
+  function renderPromos(){
+    $('promoStrip').innerHTML=state.promos.map(p=>`<div class="promoCard"><b>${p.title}</b><div class="muted">${p.text}</div></div>`).join('');
+  }
+  function animateTap(el,cls){
+    if(!el)return;
+    el.classList.remove(cls);void el.offsetWidth;el.classList.add(cls);
+    setTimeout(()=>el.classList.remove(cls),520);
+  }
   function renderDetail(){
     const i=state.items.find(x=>x.id===state.selectedItem)||state.items[0];if(!i)return;const o=owner(i),m=i.media[state.selectedMedia]||i.media[0];
     const reviews=state.reviews.filter(r=>r.itemId===i.id),similar=state.items.filter(x=>x.id!==i.id&&x.category===i.category).slice(0,2),sameOwner=state.items.filter(x=>x.id!==i.id&&x.ownerId===i.ownerId).slice(0,2);
@@ -261,8 +306,9 @@
     const mobile=window.matchMedia('(max-width:1023px)').matches;
     document.querySelectorAll('.mTab').forEach(b=>b.classList.toggle('active',b.dataset.tab===state.mobileTab));
     if(!mobile){applyRoleVisibility();$('profilePane').classList.remove('hidden');$('supportPane').classList.remove('hidden');return;}
-    ['filters','customerPane','detailPane','profilePane','chatPane','supportPane','ownerPane','adminPane'].forEach(id=>$(id).classList.add('hidden'));
+    ['marketTopPane','filters','customerPane','detailPane','profilePane','chatPane','supportPane','ownerPane','adminPane'].forEach(id=>$(id).classList.add('hidden'));
     if(state.mobileTab==='market'){
+      $('marketTopPane').classList.remove('hidden');
       $('filters').classList.remove('hidden');
       $('customerPane').classList.remove('hidden');
       $('detailPane').classList.remove('hidden');
@@ -273,13 +319,14 @@
     }else if(state.mobileTab==='support'){
       $('supportPane').classList.remove('hidden');
     }
-    if(state.role==='admin'&&state.mobileTab==='market'){$('filters').classList.add('hidden');$('customerPane').classList.add('hidden');$('detailPane').classList.add('hidden');$('adminPane').classList.remove('hidden');}
+    if(state.role==='admin'&&state.mobileTab==='market'){$('marketTopPane').classList.add('hidden');$('filters').classList.add('hidden');$('customerPane').classList.add('hidden');$('detailPane').classList.add('hidden');$('adminPane').classList.remove('hidden');}
     if((state.role==='owner'||state.role==='admin')&&state.mobileTab==='profile'){$('ownerPane').classList.remove('hidden');}
   }
   window.selectItem=id=>{state.selectedItem=id;state.selectedMedia=0;renderDetail();};
   window.selectMedia=i=>{state.selectedMedia=i;renderDetail();};
-  window.toggleItemLike=id=>{const it=state.items.find(i=>i.id===id);if(!it)return;if(state.likes.items.has(id)){state.likes.items.delete(id);it.likes--;}else{state.likes.items.add(id);it.likes++;}filterItems();};
-  window.addFavorite=id=>{state.notifications.unshift({type:'favorite',text:`Item #${id} added to favorites`,ts:'now'});renderChat();};
+  window.toggleItemLike=(id,e)=>{const it=state.items.find(i=>i.id===id);if(!it)return;if(state.likes.items.has(id)){state.likes.items.delete(id);it.likes--;}else{state.likes.items.add(id);it.likes++;}animateTap(e?.currentTarget,'tapLike');filterItems();};
+  window.addFavorite=(id,e)=>{state.notifications.unshift({type:'favorite',text:`Item #${id} added to favorites`,ts:'now'});animateTap(e?.currentTarget,'tapFav');renderChat();};
+  window.quickCategory=category=>{$('fCategory').value=category;$('q').value=$('mobileQ').value.trim();filterItems();};
   window.toggleOwnerLike=id=>{state.likes.owners.has(id)?state.likes.owners.delete(id):state.likes.owners.add(id);state.notifications.unshift({type:'like',text:'Owner profile like updated',ts:'now'});renderChat();};
   window.followOwner=id=>{state.follows.owners.add(id);state.notifications.unshift({type:'follow',text:'You followed this owner',ts:'now'});renderChat();};
   window.followCategory=c=>{state.follows.categories.add(c);state.notifications.unshift({type:'follow',text:`Subscribed to category: ${c}`,ts:'now'});renderChat();};
@@ -292,11 +339,14 @@
   document.querySelectorAll('.quick').forEach(b=>b.onclick=()=>{state.chat.push({from:'System',text:b.dataset.text});renderChat();});
   document.querySelectorAll('.supportQuick').forEach(b=>b.onclick=()=>{state.supportChat.push({from:'Customer',text:b.dataset.text});state.supportChat.push({from:'Support',text:'Request accepted. We are checking and will respond shortly.'});renderSupport();});
   document.querySelectorAll('.mTab').forEach(b=>b.onclick=()=>{state.mobileTab=b.dataset.tab;applyMobileTab();window.scrollTo({top:0,behavior:'smooth'});});
+  $('mobileSearchBtn').onclick=()=>{$('q').value=$('mobileQ').value.trim();filterItems();};
+  $('mobileQ').addEventListener('keydown',e=>{if(e.key==='Enter'){$('q').value=$('mobileQ').value.trim();filterItems();}});
   $('supportSend').onclick=()=>window.sendSupportMessage();
   $('supportInput').addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key==='Enter')window.sendSupportMessage();});
-  $('apply').onclick=filterItems;$('reset').onclick=()=>{document.querySelectorAll('#filters input,#filters select').forEach(el=>el.value='');filterItems();};
+  $('apply').onclick=()=>{$('mobileQ').value=$('q').value;filterItems();};
+  $('reset').onclick=()=>{document.querySelectorAll('#filters input,#filters select').forEach(el=>el.value='');$('mobileQ').value='';filterItems();};
   window.addEventListener('resize',applyMobileTab);
-  initFilters();renderItems(state.items);renderDetail();renderProfile();renderOwner();renderAdmin();renderChat();renderSupport();filterItems();applyMobileTab();
+  initFilters();renderPromos();renderMobileCategories();renderItems(state.items);renderDetail();renderProfile();renderOwner();renderAdmin();renderChat();renderSupport();filterItems();applyMobileTab();
 </script>
 </body>
 </html>
